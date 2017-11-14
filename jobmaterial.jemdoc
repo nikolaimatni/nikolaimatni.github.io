@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{jobmaterial.html}
+= Nikolai Matni -- Job Application Material \n
+Electrical Engineering and Computer Science, UC Berkeley
+
+I am currently on the academic job market: please find my application material below.
+
+- *[files/research_statement.pdf Research Statement]*
+- *[files/teaching_statement.pdf Teaching Statement]*
+- *[files/nikolai_matni_cv.pdf Curriculum Vitae]*
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+~~~

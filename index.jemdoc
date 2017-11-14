@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{Figs/nik.jpg}{Nikolai Matni}{130.5px}{163.5px}{}  
+*Nikolai Matni* \n
+[nmatni@berkeley.edu nmatni@berkeley.edu]\n
+Postdoctoral Scholar \n
+ [https://eecs.berkeley.edu/ Electrical Engineering and Computer Science] \n
+[https://www.berkeley.edu UC Berkeley] 
+~~~
+
+== Research Interests
+Machine and Reinforcement Learning, Robust and Distributed Optimal Control, Convex Optimization, Cyber-Physical Systems, Software Defined Networking
+
+
+== Research Overview
+My work aims to develop foundational theory and computational tools, rooted in machine learning, optimization, and control for the design of large-scale data-driven cyber-physical systems (DDCPS) such as the smart-grid, software-defined networks and smart transportation systems. For such a theory to be successful, it must provide the non-asymptotic guarantees of contemporary high-dimensional statistics, the stability, safety and performance guarantees of robust control theory, and the ability to learn and adapt of data-driven systems, all while being applicable to safety-critical systems that are highly dynamic and interconnected, difficult to model, ever changing and of huge scale. The goal of my research is to develop such a theoretical framework and the corresponding computational tools needed to make these insights actionable.  Please see my publications page for current research projects, and the talk below for an accessible introduction (aimed at a general audience) to some of the ideas behind my work.
+
+~~~
+{}{raw}
+<center>
+<iframe width="420" height="236.25" src="https://www.youtube.com/embed/lS-Y5iVNQ-U" frameborder="0" allowfullscreen></iframe></center>
+~~~
+
+== Recent Travel and Updates
+    - *Dec 12-15:* IEEE CDC 2017 in Melbourne, Australia
+    - *Dec 6-8:* The ACEMS Workshop on Challenges of Data and Control of Networks (ACDCN) at the University of Adelaide
+    - *Oct 4-6:* Allerton Conference
+    - *Sep 13-14:* NREL Autonomous Energy Grids Workshop, Golden CO
+    - *Aug 21-25:* Bridging Continuous and Discrete Optimization Boot Camp at Simons Institute
+    - *Aug 7:* InfoSymbiotics/DDDAS 2017 Conference at MIT
+    - *July 25:* Living Machines 2017 Workshop at Stanford University
+
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+
+~~~
+
