@@ -15,7 +15,7 @@ B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1710.01688">On the Sample Co
                     </li>                         
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1">N. Wu, Y. Bi, N. Michael, A. Tang, J. C. Doyle and N. Matni, <a href="papers/In-Network-Congestion-Management-ToN.pdf"> A Control-Theoretic Approach to In-Network Congestion Management </a>, IEEE Transactions on Networking, 2017. Accepted.<br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1">N. Wu, Y. Bi, N. Michael, A. Tang, J. C. Doyle and N. Matni, <a href="papers/In-Network-Congestion-Management-ToN.pdf"> A Control-Theoretic Approach to In-Network Congestion Management </a>, IEEE Transactions on Networking, 2017. To Appear.<br /></p>
                     </li>   
                       
                       <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
@@ -53,6 +53,11 @@ B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1710.01688">On the Sample Co
 ~~~
 {}{raw}
 <ul>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Dean, S. Tu,  N. Matni, and
+B. Recht <a href="https://arxiv.org/abs/1809.10121">Safely Learning to Control the Constrained Linear Quadratic Regulator</a>, IEEE American Control Conference, 2019.  Submitted. <br /></p>
+                    </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Dean, H. Mania,  N. Matni,
