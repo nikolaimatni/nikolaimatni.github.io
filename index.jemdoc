@@ -14,7 +14,17 @@ Machine and Reinforcement Learning, Robust and Distributed Optimal Control, Conv
 
 
 == Research Overview
-My work aims to develop foundational theory and computational tools, rooted in machine learning, optimization, and control for the design of large-scale data-driven cyber-physical systems (DDCPS) such as the smart-grid, software-defined networks and smart transportation systems. For such a theory to be successful, it must provide the non-asymptotic guarantees of contemporary high-dimensional statistics, the stability, safety and performance guarantees of robust control theory, and the ability to learn and adapt of data-driven systems, all while being applicable to safety-critical systems that are highly dynamic and interconnected, difficult to model, ever changing and of huge scale. The goal of my research is to develop such a theoretical framework and the corresponding computational tools needed to make these insights actionable.  Please see my publications page for current research projects, and the talk below for an accessible introduction (aimed at a general audience) to some of the ideas behind my work.
+Machine learning techniques – bolstered by successes in video games, so-
+phisticated robotic simulations, and Go – are now being applied to plan and
+control the behavior of autonomous systems interacting with physical environ-
+ments. Such systems, which include self-driving vehicles, distributed sensor
+networks, and agile robots, must interact with complex environments that
+are ever changing and difficult to model, strongly motivating the use of data-
+driven decision making and control. However, if machine learning techniques
+are to be applied in these new settings, it is critical that they be accompanied
+by guarantees of reliability, robustness, and safety, as failures could be catas-
+trophic. To address these challenges, my research is focused on developing
+learning-based control strategies for the design of safe and robust autonomous networked systems. Please see my publications page for current research projects, and the talk below for an accessible introduction (aimed at a general audience) to some of the more control theoretic ideas behind my work.
 
 ~~~
 {}{raw}
@@ -23,15 +33,10 @@ My work aims to develop foundational theory and computational tools, rooted in m
 ~~~
 
 == Recent Travel and Updates
-    - *Apr 5:* EE Seminar at USC
-    - *Mar 14:* ME Seminar at UCSB
-    - *Feb 26:* ECE Seminar at the University of Minnesota
-    - *Feb 15:* ECE Seminar at UIUC
-    - *Jan 29*: EE Seminar at UCLA
-    - *Jan 22:* ECE Seminar at the University of Michigan
-    - I will be serving on the program committee for the  SIGCOMM’18 workshop “Self-DN - Self-Driving Networks” 
-    - *Dec 12-15:* IEEE CDC 2017 in Melbourne, Australia
-    - *Dec 6-8:* The ACEMS Workshop on Challenges of Data and Control of Networks (ACDCN) at the University of Adelaide
+    - Our paper *A System Level Approach to Controller Synthesis* is accepted for publication in IEEE TAC
+    - *Dec 13-18:* IEEE CDC 2018, Miami, FL 
+    - *Dec 2-8:* NeurIPS, Montreal, Canada
+
 
 ~~~
 {}{raw}
