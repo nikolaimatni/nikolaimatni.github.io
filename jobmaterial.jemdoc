@@ -14,7 +14,7 @@ I am currently on the academic job market: please find my application material b
 Describes a contemporary approach that merges techniques from statistical learning theory and robust/optimal control, providing baselines delineating the possible control performance achievable given a fixed amount of data collected about the system.
 
 - S. Dean, H. Mania, *N. Matni*, B. Recht and S. Tu, /[https://arxiv.org/abs/1805.09388 Regret Bounds for the Robust Adaptive Control of the Linear Quadratic Regulator]/, 32nd Conference on Neural Information Processing Systems (NeurIPS), 2018.
-Defines and analyzes the first model-based reinforcement learning algorithm that is poly-time computable for the linear quadratic regulator guaranteeing (a) robust and stable execution throughout, (b) identification of the true model parameters, and (c) sub-linear regret of O(T^(2/3).
+Defines and analyzes the first model-based reinforcement learning algorithm that is poly-time computable for the linear quadratic regulator guaranteeing (a) robust and stable execution throughout, (b) identification of the true model parameters, and (c) sub-linear regret of O(T^{2/3}).
 
 - Y.-S. Wang, *N. Matni* and J. C. Doyle, /[https://arxiv.org/abs/1610.04815 A System Level Approach to Controller Synthesis]/, IEEE Transactions on Automatic Control, 2018. Accepted.
 \n
