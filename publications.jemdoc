@@ -8,10 +8,14 @@ Please see my [https://scholar.google.com/citations?user=ZDPCh_EAAAAJ&hl=en Goog
 ~~~
 {}{raw}
  <ul>
+ 
+ <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                       J. Anderson, J. C. Doyle, S. H. Low, and N. Matni, System Level Synthesis, Annual Reviews in Control, 2019. To appear.<br /></p>
+                    </li>   
                       
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         S. Dean, H. Mania,  N. Matni,
-B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1710.01688">On the Sample Complexity of the Linear Quadratic Regulator</a>, Journal of Foundations of Computational Mathemtaics (FoCM), Accepted with minor revisions, 2018.<br /></p>
+B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1710.01688">On the Sample Complexity of the Linear Quadratic Regulator</a>, Journal of Foundations of Computational Mathemtaics (FoCM), 2019. To appear.<br /></p>
                     </li>                         
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
@@ -55,13 +59,25 @@ B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1710.01688">On the Sample Co
 <ul>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> N. Matni, A. Proutiere, A. Rantzer and S. Tu, A control theoretic perspective on reinforcement learning (tutorial session and paper), IEEE Conference on Decision and Control, 2019.  Submitted. <br /></p>
+                    </li> 
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Fattahi, N. Matni, and S. Sojoudi, <a href="https://www.ocf.berkeley.edu/~fattahi/sysID_Extended.pdf">Learning Sparse Dynamical Systems from a Single Sample Trajectory</a>, IEEE Conference on Decision and Control, 2019.  Submitted. <br /></p>
+                    </li> 
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>J. Anderson, N. Matni, and Y. Chen, Sparsity Preserving Discretization With Error Bounds, IEEE Conference on Decision and Control, 2019.  Submitted. <br /></p>
+                    </li> 
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Dean, S. Tu,  N. Matni, and
 B. Recht, <a href="https://arxiv.org/abs/1809.10121">Safely Learning to Control the Constrained Linear Quadratic Regulator</a>, IEEE American Control Conference, 2019.  Submitted. <br /></p>
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Dean, H. Mania,  N. Matni,
-B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1805.09388">Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator</a>, Neural Information Processing Systems (NIPS), 2018. <br /></p>
+B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1805.09388">Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator</a>, Neural Information Processing Systems (NeurIPS), 2018. <br /></p>
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
