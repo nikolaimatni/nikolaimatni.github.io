@@ -9,6 +9,9 @@ Postdoctoral Scholar \n
 [https://www.berkeley.edu UC Berkeley] 
 ~~~
 
+== Update
+I will be starting as an Assistant Professor in the [https://www.ese.upenn.edu/ ESE] Department and the [https://www.grasp.upenn.edu/ GRASP] lab at the University of Pennsylvania, with a secondary appointment in the [http://www.cis.upenn.edu/index.php CIS] department, starting Aug 1, 2019. 
+
 == Research Interests
 Machine and Reinforcement Learning, Robust and Distributed Optimal Control, Convex Optimization, Cyber-Physical Systems, Software Defined Networking
 
@@ -19,7 +22,7 @@ control the behavior of autonomous systems interacting with physical environment
 networks, and agile robots, must interact with complex environments that
 are ever changing and difficult to model, strongly motivating the use of data-driven decision making and control. However, if machine learning techniques
 are to be applied in these new settings, it is critical that they be accompanied
-by guarantees of reliability, robustness, and safety, as failures could be catastrophic. To address these challenges, my research is focused on developing learning-based control strategies for the design of safe and robust autonomous networked systems. Please see my publications page for current research projects, and the talk below for an accessible introduction (aimed at a general engineering audience) to some of the ideas behind my work.  The first talk (given as part of the Everhart Lecture Series at Caltech) focusses on more control theoretic ideas, whereas the second (given as part of the SILO seminar series at UW-Madison) presents a high-level overview of my approach to integrating machine learning into safety critical control loops.
+by guarantees of reliability, robustness, and safety, as failures could be catastrophic. To address these challenges, my research is focused on developing learning-based control strategies for the design of safe and robust autonomous networked systems. Please see my publications page for current research projects, and the talks below for an accessible introduction (aimed at a general engineering audience) to some of the ideas behind my work.  The first talk (given as part of the Everhart Lecture Series at Caltech) focusses on more control theoretic ideas, whereas the second (given as part of the SILO seminar series at UW-Madison) presents a high-level overview of my approach to integrating machine learning into safety critical control loops.
 
 ~~~
 {}{raw}
@@ -32,6 +35,7 @@ by guarantees of reliability, robustness, and safety, as failures could be catas
 ~~~
 
 == Recent Travel and Updates
+    - *May 30-31:* Attending the inaugural [https://l4dc.mit.edu/ Learning for Dynamics and Control] at MIT
     - Our paper *A System Level Approach to Controller Synthesis* is accepted for publication in IEEE TAC
     - *Dec 13-18:* IEEE CDC 2018, Miami, FL 
     - *Dec 2-8:* NeurIPS, Montreal, Canada
