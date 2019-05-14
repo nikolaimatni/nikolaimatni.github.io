@@ -62,11 +62,13 @@ Depending on enrollment numbers, each student will either be assigned a paper to
 
 - Problem statement: what problem is the paper solving, and why is it meaningful?
 
+- Prior work: how does this paper fit into the current research landscape.
+
 - Key idea: what is the main takeaway from the paper?
 
 - Key technical tools: what are the main technical contributions of the paper?  Be prepared to present and explain these in detail.
 
-- Prior work: how does this paper fit into the current research landscape.
+- Points of confusion: where there technical or conceptual arguments that you were unable to follow?  Bring these up so that we can discuss and try to work through them in class.
 
 - Shortcomings/areas for improvement: what are some of the flaws of the paper?  What are possible directions for future work to address these?
 
