@@ -9,7 +9,7 @@
 *Office hours*: TBD
 
 == Overview
-This advanced topics course will provide students with an introduction to current areas of research at the intersection of machine learning and control.  We will investigate machine learning and data-driven algorithms that interact with the physical world.  Topics of study will include learning models of dynamical systems, using these models to robustly meet performance objectives, optimally refining models to improve performance, and verifying the safety of machine learning enabled control systems.  The course will be a combination of lectures and student lead presentations of papers drawn from a list of both classical and modern texts.  Students will be evaluated based on their paper presentation, as well as a class project.  Suitable choices for projects include implementing, evaluating, and comparing tools introduced in class, extending existing theoretical results, and applying tools to a domain specific problem of their choosing.
+This advanced topics course will provide students with an introduction to current areas of research at the intersection of machine learning and control.  We will investigate machine learning and data-driven algorithms that interact with the physical world.  Topics of study will include learning models of dynamical systems, using these models to robustly meet performance objectives, optimally refining models to improve performance, and verifying the safety of machine learning enabled control systems.  The course will be a combination of lectures and student led presentations of papers drawn from a list of both classical and modern texts.  Students will be evaluated based on their paper presentation, as well as a class project.  Suitable choices for projects include implementing, evaluating, and comparing tools introduced in class, extending existing theoretical results, and applying tools to a domain specific problem of their choosing.
 
 == Tentative list of topics (subject to change based on student interest)
 - *System identification*
@@ -50,7 +50,7 @@ This advanced topics course will provide students with an introduction to curren
 Linear Systems (ESE 500), and one of Machine Learning (CIS 520) or Modern Convex Optimization (ESE 605), or permission from the instructor.  The course will assume maturity in topics like linear algebra, optimization, stochastic processes, and calculus.
 
 === Class structure
-We will try to adhere to the following structure: the Tuesday meeting will consist of a lecture, and the Thursday meeting will consist of student lead presentations and/or discussions.  One or two readings will be assigned for each lecture.  Students are expected to read the papers and come to class prepared to discuss them in detail.
+We will try to adhere to the following structure: the Tuesday meeting will consist of a lecture, and the Thursday meeting will consist of student led presentations and/or discussions.  One or two readings will be assigned for each lecture.  Students are expected to read the papers and come to class prepared to discuss them in detail.
 
 === Grading
 Grading will be based on course participation, paper presentation/scribing, and the course project.  
