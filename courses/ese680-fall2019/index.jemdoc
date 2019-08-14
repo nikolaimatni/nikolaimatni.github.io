@@ -4,9 +4,9 @@
 
 *Instructor:* Nikolai Matni
 
-*Lectures:* Tu/Th 3-4.30pm, Room TBD
+*Lectures:* Tu/Th 3-4.30pm, Moore 212
 
-*Office hours*: TBD
+*Office hours*: Levine 374, by appointment
 
 == Overview
 This advanced topics course will provide students with an introduction to current areas of research at the intersection of machine learning and control.  We will investigate machine learning and data-driven algorithms that interact with the physical world.  Topics of study will include learning models of dynamical systems, using these models to robustly meet performance objectives, optimally refining models to improve performance, and verifying the safety of machine learning enabled control systems.  The course will be a combination of lectures and student led presentations of papers drawn from a list of both classical and modern texts.  Students will be evaluated based on their paper presentation, as well as a class project.  Suitable choices for projects include implementing, evaluating, and comparing tools introduced in class, extending existing theoretical results, and applying tools to a domain specific problem of their choosing.
@@ -25,7 +25,7 @@ This advanced topics course will provide students with an introduction to curren
 
 - *Control of uncertain systems*
     -- modeling assumptions, system norms, robust stability
-    -- optimal, robust, and model predictive control
+    -- optimal and robust control
     -- model validation and robust control
 
 - *Model based control of learned systems*
@@ -77,13 +77,11 @@ Depending on enrollment numbers, each student will either be assigned a paper to
 === Project
 Projects may be done individually or in groups of two.  Students are encouraged (but not required) to propose a topic that connects class material to aspects of their research.  Students are expected to produce the following deliverables (exact due dates TBD):
 - Proposal (1-2 pages)
-- Midterm update (1-2 pages)
+- Midterm update (2-3 pages)
 - Final presentation
-- Final report
+- Final report (6-8 pages)
 
 The final report and presentation are meant to mimic a conference setting.  The report is expected to be a self-contained document with introduction, literature review, problem formulation, main results (and experiments if applicable), and discussion/conlcusion sections.
-
-
 
 ~~~
 {}{raw}
