@@ -26,6 +26,11 @@ There is no textbook for the course.  Our discussions will be guided by papers, 
 Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - \[AbbasiYadkoriSzepesvari11\] [http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf Regret Bounds for the Adaptive Control of Linear Quadratic Systems], Abbasi-Yadkori and Szepesari, 2011
 - \[AbeilleLazaric18\] [http://proceedings.mlr.press/v80/abeille18a/abeille18a-supp.pdf Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems], Abeille and Lazaric, 2018
+- \[BousquetElisseeff02\] [http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf Stability and Generalization]
+- \[HardtRechtSinger16\] [https://arxiv.org/abs/1509.01240 Train faster, generalize better: Stability of stochastic gradient descent], Hardt, Recht, and Singer, 2016
+- \[BartlettMendelson02\] [http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf Rademacher and Gaussian Complexities: Risk Bounds and Structural Results]
+- \[SrebroSridharanTewari10\] [https://www.cs.cornell.edu/~sridharan/smoothness.pdf Smoothness, Low Noise, and Fast Rates], Srebro, Sridharan, and Tewari, 2010
+
 
 == Additional Resources
 - \[Ljung\] System Identification: Theory for the User, Ljung  ([http://www.control.isy.liu.se/research/reports/2007/2809.pdf survey paper])
@@ -36,8 +41,12 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - \[DullerudPaganini\] A course in robust control: a convex approach, Dullerud and Paganini
 - \[RussoEtAl17\] [https://arxiv.org/abs/1707.02038 A Tutorial on Thompson Sampling], Russo et al, 2017
 - \[Ioannou\] [http://www-bcf.usc.edu/~ioannou/RobustAdaptiveBook95pdf/Robust_Adaptive_Control.pdf Robust Adaptive Control], Ioannou, 1995
+- \[ShalevSchwartzAndBenDavid\] [http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf Understanding Machine Learning: from Theory to Algorithms]
+- \[BousquetEtAl\] [http://www.econ.upf.edu/~lugosi/mlss_slt.pdf Introduction to Statistical Learning Theory]
+- \[CuckerSmale01] [https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf On the Mathematical Foundations of Learning]
+- MIT's [http://www.mit.edu/~9.520/fall18/index.html 9.520 Statistical Learning Theory and Applications]
 
-== Schedule
+== Schedule (subject to change)
 === Logistics
 - Lecture 1: Aug 27
     -- Welcome, logistics, and overview
@@ -133,13 +142,40 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- \[RussoEtAl17\] [https://arxiv.org/abs/1707.02038 A Tutorial on Thompson Sampling], Russo et al, 2017
     -- \[Ioannou\] [http://www-bcf.usc.edu/~ioannou/RobustAdaptiveBook95pdf/Robust_Adaptive_Control.pdf Robust Adaptive Control], Ioannou, 1995
     
-#== Learning Theory
+== Learning Theory
     
-#- Lecture 15: Oct 22
-#    -- Learning Theory 1: Empirical Risk Minimization and Uniform Convergence
-#    -- Reading: 
-        
+- Lecture 15: Oct 17
+    -- Learning theory 1: Empirical Risk Minimization and Uniform Convergence
+        --- Reading: [http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf Chapters 2-4 ShalevSchwartzAndBenDavid], 
+        --- Methods/Algorithms: ERM, uniform convergence for bounded loss functions and finite hypothesis classes, and bounded and Lipschitz loss functions and compact hypothesis classes.
+        --- Scribe:
 
+- Lecture 16: Oct 22
+   -- Learning theory 2:  Algorithmic Stability and Stochastic Gradient Descent
+        --- Reading: [http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf BousquetElisseeff02], [https://arxiv.org/abs/1509.01240 HardtRechtSinger16]
+        --- Methods/Algorithms: Generalization through Algorithmic Stability, Stability and generalization of SGD
+        --- Scribe:
+    
+- Lecture 17: Oct 24
+    -- Learning theory 3: student led presentation on Rademacher and Gaussian Complexities for Risk Bounds
+        --- Paper: [http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf BartlettMendelson02]
+        --- Presenter:
+
+- Lecture 18: Oct 29
+    -- Learning theory 4: student led presentation on Smoothness, Low Noise, and Fast Rates
+        --- Paper: [https://www.cs.cornell.edu/~sridharan/smoothness.pdf SrebroSridharanTewari10]
+        --- Presenter:
+        
+- Additional Resources:
+    -- \[BousquetEtAl\] [http://www.econ.upf.edu/~lugosi/mlss_slt.pdf Introduction to Statistical Learning Theory]
+    -- \[CuckerSmale01] [https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf On the Mathematical Foundations of Learning]
+    -- MIT's [http://www.mit.edu/~9.520/fall18/index.html 9.520 Statistical Learning Theory and Applications]
+    
+#== Model Free Methods
+    
+#Lecture 19: Oct 31
+#    -- Model free methods 1: 
+    
 ~~~
 {}{raw}
 <!-- Global site tag (gtag.js) - Google Analytics -->
