@@ -43,6 +43,8 @@ This advanced topics course will provide students with an introduction to curren
     -- Lyapunov functions and regions of attractions
     -- Control Lyapunov and control barrier functions
 
+== Templates
+    - Lecture notes [template.tex template].
 
 == About the Course
 === Prerequesites
@@ -72,7 +74,7 @@ Depending on enrollment numbers, each student will either be assigned a paper to
 
 - Shortcomings/areas for improvement: what are some of the flaws of the paper?  What are possible directions for future work to address these?
 
-*Scribes* will be expected to both summarize the assigned reading and the lecture itself, and should address all of the same points a presentation would.  It is expected that you will put several hours into these notes, as they should go beyond just summarizing what was presented in  class.
+*Scribes* will be expected to both summarize the assigned reading and the lecture itself, and should address all of the same points a presentation would.  It is expected that you will put several hours into these notes, as they should go beyond just summarizing what was presented in class.
 
 === Project
 Projects may be done individually or in groups of two.  Students are encouraged (but not required) to propose a topic that connects class material to aspects of their research.  Students are expected to produce the following deliverables (exact due dates TBD):

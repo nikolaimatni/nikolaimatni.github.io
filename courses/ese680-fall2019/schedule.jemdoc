@@ -24,14 +24,18 @@ There is no textbook for the course.  Our discussions will be guided by papers, 
 - \[MatniEtAl19\] [https://arxiv.org/abs/1906.11392 From self-tuning regulators to reinforcement learning and back again], Matni, Proutiere, Rantzer, and Tu, 2019
 - \[DannLattimoreBrunskill17\] [https://arxiv.org/abs/1703.07710 Unifying PAC and Regret: Uniform PAC Bounds for
 Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
+- \[AbbasiYadkoriSzepesvari11\] [http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf Regret Bounds for the Adaptive Control of Linear Quadratic Systems], Abbasi-Yadkori and Szepesari, 2011
+- \[AbeilleLazaric18\] [http://proceedings.mlr.press/v80/abeille18a/abeille18a-supp.pdf Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems], Abeille and Lazaric, 2018
 
 == Additional Resources
+- \[Ljung\] System Identification: Theory for the User, Ljung  ([http://www.control.isy.liu.se/research/reports/2007/2809.pdf survey paper])
+- \[Vershynin\] [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf High-Dimensional Probability], Verhsynin
 - Sanjay Lall's [http://floatium.stanford.edu/engr210a/ Engr201a] Robust Control course at Stanford
 - \[ZhouDoyleGlover\] Robust and Optimal Control, Zhou, Doyle, and Glover
 - \[ZhouDoyle\] Essentials of Robust Control, Zhou and Doyle
 - \[DullerudPaganini\] A course in robust control: a convex approach, Dullerud and Paganini
-- \[Ljung\] System Identification: Theory for the User, Ljung  ([http://www.control.isy.liu.se/research/reports/2007/2809.pdf survey paper])
-- \[Vershynin\] [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf High-Dimensional Probability], Verhsynin
+- \[RussoEtAl17\] [https://arxiv.org/abs/1707.02038 A Tutorial on Thompson Sampling], Russo et al, 2017
+- \[Ioannou\] [http://www-bcf.usc.edu/~ioannou/RobustAdaptiveBook95pdf/Robust_Adaptive_Control.pdf Robust Adaptive Control], Ioannou, 1995
 
 == Schedule
 === Logistics
@@ -45,16 +49,19 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- System identification 1: Identification of Linear-Time-Invariant systems
         --- Reading: [https://www.sciencedirect.com/science/article/pii/0005109895001075 Viberg95]
         --- Methods/algorithms: Subspace methods, Ho-Kalman
+        --- Scribe: 
     
 - Lecture 3:  Sep 03 
     -- System identification 2: concentration bounds and finite-data guarantees, full state iid case
         --- Reading: [https://arxiv.org/abs/1906.11395 Sections 1-3 of MatniAndTu19], [https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/ Ch1 of Rigollet Lecture Notes]
         --- Methods/algorithms: Ordinary Least Squares error analysis
+        --- Scribe: 
 
 - Lecture 4: Sep 05
     -- System identification 3: finite-data guarantees (cont'd) & data-dependent bounds
         --- Reading: [https://arxiv.org/abs/1906.11395 Section 5 of MatniAndTu19], [https://arxiv.org/abs/1710.01688 Prop 2.4 and Section 2.3 of DeanEtAl17], [http://www.stat.cmu.edu/~larry/=stat705/Lecture13.pdf Wasserman]
         --- Methods/Algorithms: Ordinary Least Squares error analysis, The Bootstrap
+        --- Scribe: 
         
 - Lecture 5: Sep 10
     -- System identification 4: student led discussion, full state single trajectory case
@@ -76,11 +83,13 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Control of Uncertain Systems 1: introduction to optimal/robust control, modeling uncertainty, small gain theorem
         --- Reading: [http://www.cds.caltech.edu/~macmardg/courses/cds110b/dft/dft92-ch2.pdf DFT Chapter 2], [http://floatium.stanford.edu/engr210a/lectures/lecture17_2001_12_03_02.pdf Lecture 17 of Lall]
         --- Methods/Algorithms: LQR, H-inf and L1 optimal control, LFT respresentation of uncertainty, small gain theorem
+        --- Scribe: 
         
 - Lecture 8: Sep 19
     -- Control of Uncertain Systems 2: small gain theorem, a *very* brief introduction to the structured singular value (mu) and integral quadratic constraints (IQCs)
         --- Reading: Chapter 8 of \[DullerudPaganini\], [https://epubs.siam.org/doi/pdf/10.1137/15M1009597 Sections 3.1-3.3 of LessardRechtPackard16], (optional reading: [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4AF5981026ACEC33748BA9D7CD2DDAE9?doi=10.1.1.22.3273&rep=rep1&type=pdf Jonsson IQC Lecture Notes])
         --- Methods/Algorithms: small gain theorem, structured singular value, KYP Lemma, IQCs
+        --- Scribe: 
 
 - Lecture 9: Sep 24
     -- Control of Uncertain Systems 3: student led presentation on fundamental limits of robust control
@@ -102,13 +111,34 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Model-based control of learned systems 1: interpretable robust control with System Level Synthesis and end-to-end bounds for learning to control an unknown linear dynamical system
         --- Reading: [https://arxiv.org/pdf/1904.01634.pdf Sections 2, 3, 4.0 and 4.5 of AndersonEtAl19], [https://arxiv.org/abs/1710.01688 Sections 3 and 4 of DeanEtAl17]
         --- Methods/Algorithms: system level synthesis, quantitative performance bounds, end-to-end bounds
+        --- Scribe: 
 
 - Lecture 12: 0ct 03
     -- Model-based control of learned systems 2: PAC, regret, and beyond, and what do we know about learning to control the linear quadratic regulator
         --- Reading: [https://arxiv.org/abs/1906.11392  Section 3 of MatniEtAl19], [https://arxiv.org/abs/1703.07710 Sections 1 and 2 of DannLattimoreBrunskill17]
         --- Methods/Algorithms: episodic and single-trajecotry PAC and Regret bounds
+        --- Scribe: 
 
+- Lecture 13: Oct 08
+    -- Model-based control of learned systems 3: student led presentation on Optimism in the Face of Uncertainty (OFU) for LQR
+    -- Paper: [http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf AbbasiYadkoriSzepesvari11]
+    -- Presenter: 
+
+- Lecture 14: Oct 15
+    -- Model-based control of learned systems 4: student led presentation on Thompson Sampling for LQR
+    -- Paper: [http://proceedings.mlr.press/v80/abeille18a/abeille18a-supp.pdf AbeilleLazaric18]
+    -- Presenter: 
     
+- Additional Resources:
+    -- \[RussoEtAl17\] [https://arxiv.org/abs/1707.02038 A Tutorial on Thompson Sampling], Russo et al, 2017
+    -- \[Ioannou\] [http://www-bcf.usc.edu/~ioannou/RobustAdaptiveBook95pdf/Robust_Adaptive_Control.pdf Robust Adaptive Control], Ioannou, 1995
+    
+#== Learning Theory
+    
+#- Lecture 15: Oct 22
+#    -- Learning Theory 1: Empirical Risk Minimization and Uniform Convergence
+#    -- Reading: 
+        
 
 ~~~
 {}{raw}
