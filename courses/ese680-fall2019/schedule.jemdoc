@@ -142,7 +142,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- \[RussoEtAl17\] [https://arxiv.org/abs/1707.02038 A Tutorial on Thompson Sampling], Russo et al, 2017
     -- \[Ioannou\] [http://www-bcf.usc.edu/~ioannou/RobustAdaptiveBook95pdf/Robust_Adaptive_Control.pdf Robust Adaptive Control], Ioannou, 1995
     
-== Learning Theory
+=== Learning Theory
     
 - Lecture 15: Oct 17
     -- Learning theory 1: Empirical Risk Minimization and Uniform Convergence
