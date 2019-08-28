@@ -68,7 +68,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- System identification 2: concentration bounds and finite-data guarantees, full state iid case
         --- Reading: [https://arxiv.org/abs/1906.11395 Sections 1-3 of MatniAndTu19], [https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/ Ch1 of Rigollet Lecture Notes]
         --- Methods/algorithms: Ordinary Least Squares error analysis
-        --- Scribe: 
+        --- Scribe: Zongyu Dai
 
 - Lecture 4: Sep 05
     -- System identification 3: finite-data guarantees (cont'd) & data-dependent bounds
@@ -84,7 +84,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 6: Sep 12
     -- System identification 5: student led discussion, partial state single trajectory case
         --- Paper: Choose one of [https://arxiv.org/abs/1806.05722 OymakAndOzay19], [https://arxiv.org/abs/1903.09122 TsiamisAndPappas19]
-        --- Presenter:
+        --- Presenter: Alex Robey
 
 - Additional resources:
     -- \[Ljung\] System Identification: Theory for the User, Ljung  ([http://www.control.isy.liu.se/research/reports/2007/2809.pdf survey paper])
@@ -124,13 +124,13 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Model-based control of learned systems 1: interpretable robust control with System Level Synthesis and end-to-end bounds for learning to control an unknown linear dynamical system
         --- Reading: [https://arxiv.org/pdf/1904.01634.pdf Sections 2, 3, 4.0 and 4.5 of AndersonEtAl19], [https://arxiv.org/abs/1710.01688 Sections 3 and 4 of DeanEtAl17]
         --- Methods/Algorithms: system level synthesis, quantitative performance bounds, end-to-end bounds
-        --- Scribe: 
+        --- Scribe: Haimin Hu
 
 - Lecture 12: 0ct 03
     -- Model-based control of learned systems 2: PAC, regret, and beyond, and what do we know about learning to control the linear quadratic regulator
         --- Reading: [https://arxiv.org/abs/1906.11392  Section 3 of MatniEtAl19], [https://arxiv.org/abs/1703.07710 Sections 1 and 2 of DannLattimoreBrunskill17]
         --- Methods/Algorithms: episodic and single-trajecotry PAC and Regret bounds
-        --- Scribe: 
+        --- Scribe: Klayton Wittler
 
 - Lecture 13: Oct 08
     -- Model-based control of learned systems 3: student led presentation on Optimism in the Face of Uncertainty (OFU) for LQR
@@ -152,7 +152,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Learning theory 1: Empirical Risk Minimization and Uniform Convergence
         --- Reading: [http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf Chapters 2-4 ShalevSchwartzAndBenDavid], 
         --- Methods/Algorithms: ERM, uniform convergence for bounded loss functions and finite hypothesis classes, and bounded and Lipschitz loss functions and compact hypothesis classes.
-        --- Scribe:
+        --- Scribe:  Shuo Li
 
 - Lecture 16: Oct 22
    -- Learning theory 2:  Algorithmic Stability and Stochastic Gradient Descent
