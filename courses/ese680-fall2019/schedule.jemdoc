@@ -20,6 +20,8 @@ There is no textbook for the course.  Our discussions will be guided by papers, 
 - \[LeongDoyle16\] [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7798480 Understanding Robust Control Theory Via Stick Balancing], Leong and Doyle, 2016 
 - \[LeongDoyle17] [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7937900 Effects of Delays, Poles, and Zeros on Time Domain Waterbed Tradeoffs and Oscillations], Leong and Doyle, 2017
 - \[SmithDoyle92\] [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=148346 Model Validation: A Connection between Robust Control and System Identification], Smith and Doyle, 1992
+- \[PoollaEtAl94\] [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=284871 A Time-Domain Approach to Model Validation], Poolla, Khargonekar, Tikku, Krause, and Nagpal, 1994 
+- \[Prajna05\]  [https://www.sciencedirect.com/science/article/pii/S0005109805002839 Barrier Certificates for nonlinear model validation]
 - \[AndersonEtAl19\] [https://arxiv.org/pdf/1904.01634.pdf System Level Synthesis], Anderson, Doyle, Low, and Matni, 2019
 - \[MatniEtAl19\] [https://arxiv.org/abs/1906.11392 From self-tuning regulators to reinforcement learning and back again], Matni, Proutiere, Rantzer, and Tu, 2019
 - \[DannLattimoreBrunskill17\] [https://arxiv.org/abs/1703.07710 Unifying PAC and Regret: Uniform PAC Bounds for
@@ -111,7 +113,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         
 - Lecture 10: Sep 26
     -- Control of Uncertain Systems 4: student led presentation on model (in)validation from a robust control perspective
-        --- Paper: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=148346 SmithDoyle92]
+        --- Paper: either [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=148346 SmithDoyle92] or [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=284871 PoollaEtAl94] *and* [https://www.sciencedirect.com/science/article/pii/S0005109805002839 Prajna05]
         --- Presenter: 
         
 - Additional Resources:
