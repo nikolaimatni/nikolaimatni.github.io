@@ -76,7 +76,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- System identification 3: finite-data guarantees (cont'd) & data-dependent bounds
         --- Reading: [https://arxiv.org/abs/1906.11395 Section 5 of MatniAndTu19], [https://arxiv.org/abs/1710.01688 Prop 2.4 and Section 2.3 of DeanEtAl17], [http://www.stat.cmu.edu/~larry/=stat705/Lecture13.pdf Wasserman]
         --- Methods/Algorithms: Ordinary Least Squares error analysis, The Bootstrap
-        --- Scribe: 
+        --- Scribe: Kuk Jang
         
 - Lecture 5: Sep 10
     -- System identification 4: student led discussion, full state single trajectory case
