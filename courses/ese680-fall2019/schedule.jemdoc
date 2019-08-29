@@ -158,7 +158,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
    -- Learning theory 2:  Algorithmic Stability and Stochastic Gradient Descent
         --- Reading: [http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf BousquetElisseeff02], [https://arxiv.org/abs/1509.01240 HardtRechtSinger16]
         --- Methods/Algorithms: Generalization through Algorithmic Stability, Stability and generalization of SGD
-        --- Scribe:
+        --- Scribe: Jialin Mao
     
 - Lecture 17: Oct 24
     -- Learning theory 3: student led presentation on Rademacher and Gaussian Complexities for Risk Bounds
