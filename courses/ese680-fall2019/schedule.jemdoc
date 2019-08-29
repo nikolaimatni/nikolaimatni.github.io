@@ -98,7 +98,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Control of Uncertain Systems 1: introduction to optimal/robust control, modeling uncertainty, small gain theorem
         --- Reading: [http://www.cds.caltech.edu/~macmardg/courses/cds110b/dft/dft92-ch2.pdf DFT Chapter 2], [http://floatium.stanford.edu/engr210a/lectures/lecture17_2001_12_03_02.pdf Lecture 17 of Lall]
         --- Methods/Algorithms: LQR, H-inf and L1 optimal control, LFT respresentation of uncertainty, small gain theorem
-        --- Scribe: 
+        --- Scribe: Christopher Hsu
         
 - Lecture 8: Sep 19
     -- Control of Uncertain Systems 2: small gain theorem, a *very* brief introduction to the structured singular value (mu) and integral quadratic constraints (IQCs)
