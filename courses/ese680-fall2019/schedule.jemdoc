@@ -137,7 +137,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 13: Oct 08
     -- Model-based control of learned systems 3: student led presentation on Optimism in the Face of Uncertainty (OFU) for LQR
     -- Paper: [http://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf AbbasiYadkoriSzepesvari11]
-    -- Presenter: 
+    -- Presenter: Shaoru Chen
 
 - Lecture 14: Oct 15
     -- Model-based control of learned systems 4: student led presentation on Thompson Sampling for LQR
@@ -183,7 +183,7 @@ Lecture 19: Oct 31
     -- Model free methods 1
         --- Reading:
         --- Methods/Algorithms:
-        --- Scribe: Shaoru Chen
+        --- Scribe: 
     
 ~~~
 {}{raw}
