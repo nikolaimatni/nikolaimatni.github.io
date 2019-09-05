@@ -104,7 +104,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Control of Uncertain Systems 2: small gain theorem, a *very* brief introduction to the structured singular value (mu) and integral quadratic constraints (IQCs)
         --- Reading: Chapter 8 of \[DullerudPaganini\], [https://epubs.siam.org/doi/pdf/10.1137/15M1009597 Sections 3.1-3.3 of LessardRechtPackard16], (optional reading: [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4AF5981026ACEC33748BA9D7CD2DDAE9?doi=10.1.1.22.3273&rep=rep1&type=pdf Jonsson IQC Lecture Notes])
         --- Methods/Algorithms: small gain theorem, structured singular value, KYP Lemma, IQCs
-        --- Scribe: 
+        --- Scribe: Kendall Queen
 
 - Lecture 9: Sep 24
     -- Control of Uncertain Systems 3: student led presentation on fundamental limits of robust control
@@ -114,7 +114,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 10: Sep 26
     -- Control of Uncertain Systems 4: student led presentation on model (in)validation from a robust control perspective
         --- Paper: either [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=148346 SmithDoyle92] or [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=284871 PoollaEtAl94] *and* [https://www.sciencedirect.com/science/article/pii/S0005109805002839 Prajna05]
-        --- Presenter: 
+        --- Presenter: Laura Jarin-Lipschitz
         
 - Additional Resources:
     -- Sanjay Lall's [http://floatium.stanford.edu/engr210a/ Engr201a] course at Stanford
@@ -165,7 +165,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 17: Oct 24
     -- Learning theory 3: student led presentation on Rademacher and Gaussian Complexities for Risk Bounds
         --- Paper: [http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf BartlettMendelson02]
-        --- Presenter:
+        --- Presenter: Alexandre Amice
 
 - Lecture 18: Oct 29
     -- Learning theory 4: student led presentation on Smoothness, Low Noise, and Fast Rates
@@ -183,18 +183,18 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Model free methods 1
         --- Reading:
         --- Methods/Algorithms:
-        --- Scribe: 
+        --- Scribe: Raphael Van Hoffelen
         
 - Lecture 20: Nov 05
 -- Model free methods 2
         --- Reading:
         --- Methods/Algorithms:
-        --- Scribe: 
+        --- Scribe: Walker Gosrich
         
 - Lecture 21: Nov 07
 -- Model free methods 3: student led presentation
         --- Paper:
-        --- Presenter:
+        --- Presenter: Karl Schmeckpeper
         
 - Lecture 22: Nov 12
 -- Model free methods 4: student led presentation
@@ -207,13 +207,13 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- Safe learning and control 1
         --- Reading:
         --- Methods/Algorithms:
-        --- Scribe: 
+        --- Scribe: Siddharth Singh
         
 - Lecture 24: Nov 19
 -- Safe learning and control 2
         --- Reading:
         --- Methods/Algorithms:
-        --- Scribe: 
+        --- Scribe: Alena Rodionova
         
 - Lecture 25: Nov 21
 -- Safe learning and control 3: student led presentation
