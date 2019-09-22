@@ -64,7 +64,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- System identification 1: Identification of Linear-Time-Invariant systems
         --- Reading: [https://www.sciencedirect.com/science/article/pii/0005109895001075 Viberg95]
         --- Methods/algorithms: Subspace methods, Ho-Kalman
-        --- Scribe: Duc Nguyen
+        --- Scribe: Duc Nguyen, [scribe-notes/lecture02.pdf lecture notes]
     
 - Lecture 3:  Sep 03 
     -- System identification 2: concentration bounds and finite-data guarantees, full state iid case
