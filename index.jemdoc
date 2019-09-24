@@ -31,7 +31,9 @@ by guarantees of reliability, robustness, and safety, as failures could be catas
 
 ~~~
 
-== Recent Travel and Updates
+== News
+    - *Sep 24-26:* Attending Allerton to present our work on efficient learning of distributed controllers.
+    - New papers on [https://arxiv.org/abs/1909.10074 distributed MPC using SLS], [https://arxiv.org/abs/1909.10092 robust performance guarantees for SLS], and [https://arxiv.org/abs/1909.09895 efficient learning of distributed controllers].
     - *May 30-31:* Attending the inaugural [https://l4dc.mit.edu/ Learning for Dynamics and Control] at MIT
     - Our paper *A System Level Approach to Controller Synthesis* is accepted for publication in IEEE TAC
     - *Dec 13-18:* IEEE CDC 2018, Miami, FL 
