@@ -70,7 +70,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
     -- System identification 2: concentration bounds and finite-data guarantees, full state iid case
         --- Reading: [https://arxiv.org/abs/1906.11395 Sections 1-3 of MatniAndTu19], [https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/ Ch1 of Rigollet Lecture Notes]
         --- Methods/algorithms: Ordinary Least Squares error analysis
-        --- Scribe: Zongyu Dai
+        --- Scribe: Zongyu Dai, [scribe-notes/lecture03.pdf lecture notes]
 
 - Lecture 4: Sep 05
     -- System identification 3: finite-data guarantees (cont'd) & data-dependent bounds
@@ -170,7 +170,7 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 18: Oct 29
     -- Learning theory 4: student led presentation on Smoothness, Low Noise, and Fast Rates
         --- Paper: [https://www.cs.cornell.edu/~sridharan/smoothness.pdf SrebroSridharanTewari10]
-        --- Presenter:
+        --- Presenter: Han Wang
         
 - Additional Resources:
     -- \[BousquetEtAl\] [http://www.econ.upf.edu/~lugosi/mlss_slt.pdf Introduction to Statistical Learning Theory]
@@ -186,15 +186,15 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         --- Scribe: Raphael Van Hoffelen
         
 - Lecture 20: Nov 05
--- Model free methods 2
+-- Model free methods 2: student led presentation
+        --- Paper:
+        --- Presenter: Karl Schmeckpeper
+        
+- Lecture 21: Nov 07
+-- Model free methods 1
         --- Reading:
         --- Methods/Algorithms:
         --- Scribe: Walker Gosrich
-        
-- Lecture 21: Nov 07
--- Model free methods 3: student led presentation
-        --- Paper:
-        --- Presenter: Karl Schmeckpeper
         
 - Lecture 22: Nov 12
 -- Model free methods 4: student led presentation
@@ -218,12 +218,12 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - Lecture 25: Nov 21
 -- Safe learning and control 3: student led presentation
         --- Paper:
-        --- Presenter: 
+        --- Presenter: Hyunjoo Oh 
         
 - Lecture 26: Nov 26
 -- Safe learning and control 4: student led presentation
         --- Reading:
-        --- Presenter:
+        --- Presenter: Mengyuan Li
         
 === Final Project Presentations
     
