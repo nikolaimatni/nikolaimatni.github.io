@@ -32,6 +32,10 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - \[HardtRechtSinger16\] [https://arxiv.org/abs/1509.01240 Train faster, generalize better: Stability of stochastic gradient descent], Hardt, Recht, and Singer, 2016
 - \[BartlettMendelson02\] [http://www.jmlr.org/papers/volume3/bartlett02a/bartlett02a.pdf Rademacher and Gaussian Complexities: Risk Bounds and Structural Results]
 - \[SrebroSridharanTewari10\] [https://www.cs.cornell.edu/~sridharan/smoothness.pdf Smoothness, Low Noise, and Fast Rates], Srebro, Sridharan, and Tewari, 2010
+- \[DuEtAl2019\] [https://arxiv.org/pdf/1910.03016.pdf Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?], Du, Kakade, Wang, and Yang, 2019
+- \[TuRecht2018\] [https://arxiv.org/abs/1812.03565 The Gap Between Model-Based and Model-Free Methods on the Linear Quadratic Regulator: An Asymptotic Viewpoint], Tu and Recht, 2018
+- \[AmesEtAl19\] [https://arxiv.org/abs/1903.11199 Control Barrier Functions: Theory and Applications], Ames, Coogan, Egerstedt, Notomista, Sreenath, and Tabuada, 2019
+- \[BerkenkampEtAl17\] [https://arxiv.org/abs/1705.08551 Safe Model-based Reinforcement Learning with Stability Guarantees],  Berkenkamp, Turchetta, Schoellig, and Krause, 2017
 
 
 == Additional Resources
@@ -186,8 +190,8 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         --- Scribe: Raphael Van Hoffelen
         
 - Lecture 20: Nov 05
--- Model free methods 2: student led presentation
-        --- Paper:
+-- Model free methods 2: student led presentation on if good representations are sufficient for efficient reinforcement living.
+        --- Paper: [https://arxiv.org/pdf/1910.03016.pdf DuEtAl2019]
         --- Presenter: Karl Schmeckpeper
         
 - Lecture 21: Nov 07
@@ -197,8 +201,8 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         --- Scribe: Walker Gosrich
         
 - Lecture 22: Nov 12
--- Model free methods 4: student led presentation
-        --- Reading:
+-- Model free methods 4: student led presentation on the gap between model-free and model-based methods for LQR
+        --- Reading: [https://arxiv.org/abs/1812.03565 TuRecht2018]
         --- Presenter: Maria-Elisabeth Tzes
         
 === Safe Learning and Control
@@ -216,14 +220,17 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         --- Scribe: Alena Rodionova
         
 - Lecture 25: Nov 21
--- Safe learning and control 3: student led presentation
-        --- Paper:
+-- Safe learning and control 3: student led presentation on control barrier functions
+        --- Paper: [https://arxiv.org/abs/1903.11199 AmesEtAl19]
         --- Presenter: Hyunjoo Oh 
         
 - Lecture 26: Nov 26
--- Safe learning and control 4: student led presentation
-        --- Reading:
+-- Safe learning and control 4: student led presentation on safe reinforcement learning with stability guarantees
+        --- Reading: [https://arxiv.org/abs/1705.08551 BerkenkampEtAl17]
         --- Presenter: Mengyuan Li
+        
+- Lecture 26*: Nov 27
+-- Bonus lecture!  Topic TBD.
         
 === Final Project Presentations
     
