@@ -203,7 +203,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
         
 - Lecture 21: Nov 07
 -- Model free methods 3
-        --- Reading: [https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-053018-023825 Sections 3.3, 4.2, 5 of Recht19], [https://arxiv.org/pdf/1801.05039.pdf FazelGeKakadeMesbahi2019]
+        --- Reading: [https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-053018-023825 Sections 3.3, 4.2, 5 of Recht19], [https://arxiv.org/pdf/1801.05039.pdf FazelGeKakadeMesbahi2019], Optional: a great talk by Maryam Fazel on [https://www.youtube.com/watch?v=5hMhGM0NOHI gradient based methods for linear control] from L4DC 2019.
         --- Methods/Algorithms: REINFORCE, Policy Gradient, Random Search
         --- Scribe: Walker Gosrich
         
