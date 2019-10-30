@@ -54,6 +54,8 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - \[BousquetEtAl\] [http://www.econ.upf.edu/~lugosi/mlss_slt.pdf Introduction to Statistical Learning Theory]
 - \[CuckerSmale01] [https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf On the Mathematical Foundations of Learning]
 - MIT's [http://www.mit.edu/~9.520/fall18/index.html 9.520 Statistical Learning Theory and Applications]
+-- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
+-- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
 
 == Schedule (subject to change)
 === Logistics
@@ -207,6 +209,10 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 -- Model free methods 4: student led presentation on the gap between model-free and model-based methods for LQR
         --- Reading: [https://arxiv.org/abs/1812.03565 TuRecht2018]
         --- Presenter: Maria-Elisabeth Tzes
+        
+- Additional Resources:
+    -- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
+    -- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
         
 === Safe Learning and Control
     
