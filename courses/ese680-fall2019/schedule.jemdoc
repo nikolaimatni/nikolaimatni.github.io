@@ -35,6 +35,8 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
 - \[SuttonBarto\] [http://incompleteideas.net/book/bookdraft2017nov5.pdf Reinforcement Learning] Sutton and Barto, 2017
 - \[BradtkeYdstieBarto94\] [https://ieeexplore.ieee.org/abstract/document/735224 Adaptive linear quadratic control using policy iteration], Bradtke, Ydstie, and Barto, 1994
 - \[DuEtAl2019\] [https://arxiv.org/pdf/1910.03016.pdf Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?], Du, Kakade, Wang, and Yang, 2019
+- \[FazelGeKakadeMesbahi2019\] [https://arxiv.org/pdf/1801.05039.pdf Global Convergence of Policy Gradient
+Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 - \[TuRecht2018\] [https://arxiv.org/abs/1812.03565 The Gap Between Model-Based and Model-Free Methods on the Linear Quadratic Regulator: An Asymptotic Viewpoint], Tu and Recht, 2018
 - \[AmesEtAl19\] [https://arxiv.org/abs/1903.11199 Control Barrier Functions: Theory and Applications], Ames, Coogan, Egerstedt, Notomista, Sreenath, and Tabuada, 2019
 - \[BerkenkampEtAl17\] [https://arxiv.org/abs/1705.08551 Safe Model-based Reinforcement Learning with Stability Guarantees],  Berkenkamp, Turchetta, Schoellig, and Krause, 2017
@@ -201,8 +203,8 @@ Episodic Reinforcement Learning], Dann, Lattimore, and Brunskill, 2017
         
 - Lecture 21: Nov 07
 -- Model free methods 3
-        --- Reading:
-        --- Methods/Algorithms:
+        --- Reading: [https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-053018-023825 Sections 3.3, 4.2, 5 of Recht19], [https://arxiv.org/pdf/1801.05039.pdf FazelGeKakadeMesbahi2019]
+        --- Methods/Algorithms: REINFORCE, Policy Gradient, Random Search
         --- Scribe: Walker Gosrich
         
 - Lecture 22: Nov 12
