@@ -58,6 +58,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 - MIT's [http://www.mit.edu/~9.520/fall18/index.html 9.520 Statistical Learning Theory and Applications]
 -- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
 -- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
+-- \[KrauthTuRecht2019\] [https://arxiv.org/abs/1905.12842 Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator], Krauth, Tu, and Recth, 2019
 
 == Schedule (subject to change)
 === Logistics
@@ -192,7 +193,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     
 - Lecture 19: Oct 31
     -- Model free methods 1
-        --- Reading: [http://incompleteideas.net/book/bookdraft2017nov5.pdf SuttonBarto Chapter 6.1-6.5], [https://ieeexplore.ieee.org/abstract/document/735224 BradtkeYdstieBarto94]
+        --- Reading: [http://incompleteideas.net/book/bookdraft2017nov5.pdf SuttonBarto Chapter 6.1-6.5], [https://ieeexplore.ieee.org/abstract/document/735224 BradtkeYdstieBarto94], Optional: [https://arxiv.org/abs/1905.12842 KrauthTuRecht2019]
         --- Methods/Algorithms: TD-learning, Q-learning, policy iteration
         --- Scribe: Raphael Van Hoffelen
         
@@ -215,6 +216,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 - Additional Resources:
     -- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
     -- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
+    -- \[KrauthTuRecht2019\] [https://arxiv.org/abs/1905.12842 Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator], Krauth, Tu, and Recth, 2019
         
 === Safe Learning and Control
     
