@@ -222,8 +222,8 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     
 - Lecture 23: Nov 14
     -- Safe learning and control 1
-        --- Reading:
-        --- Methods/Algorithms:
+        --- Reading: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/readings/MIT6_241JS11_chap13.pdf Basic Lyapunov Theory] [https://stanford.edu/class/ee363/lectures/io-lyap.pdf Control Lyapunov Functions]
+        --- Methods/Algorithms: Lyapunov functions, Control Lyapunov functions, Global Asymptotic Stability, Global Exponential Stability
         --- Scribe: Siddharth Singh
         
 - Lecture 24: Nov 19
