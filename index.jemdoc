@@ -35,6 +35,8 @@ by guarantees of reliability, robustness, and safety, as failures could be catas
 ~~~
 
 == News
+    - *Nov 21:* I will be discussing recent developments, challenges, and new opportunities in data-driven control and optimization of CPS at the [https://cps-vo.org/group/cps-pimtg19/mini-workshops#learningcontrol Mini-Workshop on Learning for Control] at the 2019 NSF CPS PI Meeting. 
+    - I am serving on the program comittees for [https://berkeleylearnverify.github.io/HSCC_2020/#committees HSCC 2020] and [https://sites.google.com/berkeley.edu/l4dc/home?authuser=0 L4DC 2020].
     - *Nov 4:* Presenting our work on safety and robusntess guarantees with learning in the loop as part of the [http://people.ee.ethz.ch/~floriand/docs/Teaching/ControlSeminarSeries/CSS_2019_Fall.pdf ETHz Control Seminar Series], at ETH Zurich. 
     - *Oct 16:* Presenting our work on safety and robustness guaranteees with learning in the loop at the [https://lcsr.jhu.edu/ LCSR] at John Hopkins University. 
     - *Oct 14-15:* Attending the NSF-sponsored [https://wordpress.lehigh.edu/indisc/tripods-x-lehighu/workshop-two/ Robot Learning Workshop] at Lehigh University to present our work on [https://arxiv.org/abs/1907.03680 robust guarantees for perception based control]. ([https://lehighonline.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e2b18e4-749d-4b4e-8260-aae70125df50 Presentation Video])
