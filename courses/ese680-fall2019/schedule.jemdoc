@@ -244,7 +244,9 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
         --- Presenter: Mengyuan Li
         
 - Lecture 26*: Nov 27
--- Bonus lecture!  Topic TBD.
+-- Bonus lecture on safety and verification of Deep Neural Nets
+    --- Reading: [https://arxiv.org/abs/1906.04893 FazlyabMorariPappas19a] [https://arxiv.org/abs/1910.04249 FazlyabMorariPappas19b], [https://arxiv.org/abs/1903.01287 FazlyabMorariPappas19c]
+    --- Presenter: [https://www.seas.upenn.edu/~mahyarfa/ Mahyar Fazlyab]
         
 === Final Project Presentations
     
