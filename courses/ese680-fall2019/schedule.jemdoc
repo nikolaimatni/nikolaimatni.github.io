@@ -40,6 +40,9 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 - \[TuRecht2018\] [https://arxiv.org/abs/1812.03565 The Gap Between Model-Based and Model-Free Methods on the Linear Quadratic Regulator: An Asymptotic Viewpoint], Tu and Recht, 2018
 - \[AmesEtAl19\] [https://arxiv.org/abs/1903.11199 Control Barrier Functions: Theory and Applications], Ames, Coogan, Egerstedt, Notomista, Sreenath, and Tabuada, 2019
 - \[BerkenkampEtAl17\] [https://arxiv.org/abs/1705.08551 Safe Model-based Reinforcement Learning with Stability Guarantees],  Berkenkamp, Turchetta, Schoellig, and Krause, 2017
+- \[FazlyabRobeyMorariPappas19\] [https://arxiv.org/abs/1906.04893 Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks] Fazlyab, Robey, Hassani, Morari, and Pappas, 2019
+- \[FazlyabMorariPappas19a\] [https://arxiv.org/abs/1910.04249 Probabilistic Verification and Reachability Analysis of Neural Networks via Semidefinite Programming], Fazlyab, Morari, and Pappas, 2019
+- \[FazlyabMorariPappas19b\] [https://arxiv.org/abs/1903.01287 Safety Verification and Robustness Analysis of Neural Networks via Quadratic Constraints and Semidefinite Programming] Fazlyab, Morari, and Pappas, 2019
 
 
 
@@ -56,9 +59,10 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 - \[BousquetEtAl\] [http://www.econ.upf.edu/~lugosi/mlss_slt.pdf Introduction to Statistical Learning Theory]
 - \[CuckerSmale01] [https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf On the Mathematical Foundations of Learning]
 - MIT's [http://www.mit.edu/~9.520/fall18/index.html 9.520 Statistical Learning Theory and Applications]
--- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
--- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
--- \[KrauthTuRecht2019\] [https://arxiv.org/abs/1905.12842 Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator], Krauth, Tu, and Recth, 2019
+- \[Bertsekas\] [https://web.mit.edu/dimitrib/www/RLbook.html Reinforcement Learning and Optimal Control]
+- \[BersekasTsitsiklis\] [http://athenasc.com/ndpbook.html Neuro-dynamic Programming]
+- \[KrauthTuRecht2019\] [https://arxiv.org/abs/1905.12842 Finite-time Analysis of Approximate Policy Iteration for the Linear Quadratic Regulator], Krauth, Tu, and Recth, 2019
+- \[GaussianProcesses\] [http://www.gaussianprocess.org/gpml/chapters/ Gaussian Processes for Machine Learning], Rasmussen and Williams, 2006.
 
 == Schedule (subject to change)
 === Logistics
@@ -222,14 +226,14 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     
 - Lecture 23: Nov 14
     -- Safe learning and control 1
-        --- Reading:
-        --- Methods/Algorithms:
+        --- Reading: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/readings/MIT6_241JS11_chap13.pdf Basic Lyapunov Theory I], [https://stanford.edu/class/ee363/lectures/lyap.pdf Basic Lyapunov Theory II], [https://stanford.edu/class/ee363/lectures/io-lyap.pdf Control Lyapunov Functions]
+        --- Methods/Algorithms: Lyapunov functions, Control Lyapunov functions, Global Asymptotic Stability, Global Exponential Stability
         --- Scribe: Siddharth Singh
         
 - Lecture 24: Nov 19
 -- Safe learning and control 2
-        --- Reading:
-        --- Methods/Algorithms:
+        --- Reading: [https://stanford.edu/class/ee363/lectures/estim.pdf Estimation], [http://www.gaussianprocess.org/gpml/chapters/RW2.pdf Regression using Gaussian Processes]
+        --- Methods/Algorithms: Gaussian Processes
         --- Scribe: Alena Rodionova
         
 - Lecture 25: Nov 21
@@ -243,7 +247,9 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
         --- Presenter: Mengyuan Li
         
 - Lecture 26*: Nov 27
--- Bonus lecture!  Topic TBD.
+-- Bonus lecture on safety and verification of Deep Neural Nets
+    --- Reading: [https://arxiv.org/abs/1906.04893 FazlyabRobeyMorariPappas19] [https://arxiv.org/abs/1910.04249 FazlyabMorariPappas19a], [https://arxiv.org/abs/1903.01287 FazlyabMorariPappas19b]
+    --- Presenter: [https://www.seas.upenn.edu/~mahyarfa/ Mahyar Fazlyab]
         
 === Final Project Presentations
     
