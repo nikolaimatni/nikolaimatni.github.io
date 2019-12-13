@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{publications.html}
+= CDC 2019 Tutorial - From Self-Tuning Regulators to Reinforcement Learning and Back Again \n
+[https://nikolaimatni.github.io Nikolai Matni], [https://people.kth.se/~alepro/ Alexandre Proutiere], [http://www.control.lth.se/personnel/anders-rantzer.html Anders Rantzer], [https://stephentu.github.io/ Stephen Tu]
+
+== Papers
+
+~~~
+{}{raw}
+<ul>
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> N. Matni, A. Proutiere, A. Rantzer and S. Tu, <a href="https://arxiv.org/abs/1906.11392"> From Self-Tuning Regulators to Reinforcement Learning and Back Again</a>, IEEE Conference on Decision and Control, 2019.<br /></p>
+                    </li> 
+                    <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> N. Matni, and S. Tu, <a href="https://arxiv.org/abs/1906.11395"> A Tutorial on Concentration Bounds for System Identification</a> IEEE Conference on Decision and Control, 2019.   <br /></p>
+                    </li> 
+</ul>                    
+~~~
+
+== Slides
+- [./files/1912CDCintro.pdf Introduction] by Anders Rantzer.
+- [https://www.dropbox.com/s/nf350an518bth5u/cdc2019-rl-tutorial-clean.pptx?dl=0 From Self-Tuning Regulators to Reinforcement Learning and Back Again] by Nikolai Matni.
+- [./files/slidesAP.pdf Optimal Adaptive Control in Discrete Systems] by Alexandre Proutiere.
+- [./files/1912CDCexplore.pdf Dual Control: Optimization Based Exploration/Exploitation] by Anders Rantzer.
+- [./files/cdc19_sysid_tutorial_Tu.pdf Concentration Inequalities for System Identification] by Stephen Tu.
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+~~~
+
+
+
