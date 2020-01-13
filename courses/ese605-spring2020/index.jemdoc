@@ -27,14 +27,14 @@ In this course, you will learn to recognize and solve convex optimization proble
 
 
 == About the Course
-=== Prerequesites
+=== Prerequisites
 This is a math intensive course.  A solid foundation in linear algebra (at the level of Math 314), as well as comfort with analysis, probability, and statistics at an advanced undergraduate level is required.  Familiarity with one of Matlab, Python, or Julia.  Undergraduates need permission. 
 
 === Intended audience
 This course will benefit anyone who uses or will use scientific computation or optimization in engineering, statistics, signal processing, or related work (e.g., machine learning, finance).  More specifically, convex optimization problems are likely to pop up in the work of people in the following departments and fields: Electrical Engineering (signal\/image processing, communications, control), Aero\/Astro Engineering (guidance, navigation, control, design), Mechanical & Civil Engineering (robotics, control, structural analysis), Computer Science (machine learning, robotics, computer graphics, algorithms & complexity, computer networking), & Operations Research (Wharton).
 
 === Schedule
-The following schedule is tentative and subject to change.
+The following schedule is tentative and subject to change.  
 ~~~
 {}{table}{SCHEDULE}
 Date          | Topic          | Reading | Homework ||
@@ -69,7 +69,7 @@ Additional optional resources that may prove useful include:
 You will use one of [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), or [http://convexjl.readthedocs.org/ Convex.jl] (Julia), to write simple scripts. We refer to CVX, CVXPY, and Convex.jl collectively as CVX*.
 
 === Grading
-- Homework (20%): there will be weekly homework assignments, handed out on Tuesday, and due the following Friday by 5pm.  The homework assignments must be LateXed and submitted on Canvas.  You will be given *5 free late days* which you may use as you please throughout the semester, after which no late assignments will be accepted.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in.  Homework will be graded on a scale of 0-4.
+- Homework (20%): there will be weekly homework assignments, handed out on Tuesday, and due the following Friday by 5pm.  The homework assignments *must be LateXed and submitted on Canvas via Gradescope*.  Please use the [https://web.stanford.edu/class/ee364b/latex_templates/ LaTeX templates] provided by Stephen Boyd's EE364b course, and follow the recommended style guide.  You will be given *5 free late days* which you may use as you please throughout the semester, after which no late assignments will be accepted.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in.  Homework will be graded on a scale of 0-4.
 - Midterm exam (30%): there will be an in-class, 75 minute, closed book, closed notes midterm scheduled for *3\/03*.
 - Final programming assignment (15%): there will be a final programming assignment due on the last day of classes *4\/29*. 
 - Final exam (35%): there will be a final exam scheduled during the final exam period.
