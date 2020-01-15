@@ -92,7 +92,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- System identification 3: finite-data guarantees (cont'd) & data-dependent bounds
         --- Reading: [https://arxiv.org/abs/1906.11395 Section 5 of MatniAndTu19], [https://arxiv.org/abs/1710.01688 Prop 2.4 and Section 2.3 of DeanEtAl17], [http://www.stat.cmu.edu/~larry/=stat705/Lecture13.pdf Wasserman]
         --- Methods/Algorithms: Ordinary Least Squares error analysis, The Bootstrap
-        --- Scribe: Kuk Jang
+        --- Scribe: Kuk Jang, [scribe-notes/lecture04.pdf lecture notes]
         
 - Lecture 5: Sep 10
     -- System identification 4: student led discussion, full state single trajectory case
@@ -114,13 +114,13 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- Control of Uncertain Systems 1: introduction to optimal/robust control, modeling uncertainty, small gain theorem
         --- Reading: [http://www.cds.caltech.edu/~macmardg/courses/cds110b/dft/dft92-ch2.pdf DFT Chapter 2], [http://floatium.stanford.edu/engr210a/lectures/lecture17_2001_12_03_02.pdf Lecture 17 of Lall]
         --- Methods/Algorithms: LQR, H-inf and L1 optimal control, LFT respresentation of uncertainty, small gain theorem
-        --- Scribe: Christopher Hsu
+        --- Scribe: Christopher Hsu, [scribe-notes/lecture07.pdf lecture notes]
         
 - Lecture 8: Sep 19
     -- Control of Uncertain Systems 2: small gain theorem, a *very* brief introduction to the structured singular value (mu) and integral quadratic constraints (IQCs)
         --- Reading: Chapter 8 of \[DullerudPaganini\], [https://epubs.siam.org/doi/pdf/10.1137/15M1009597 Sections 3.1-3.3 of LessardRechtPackard16], (optional reading: [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4AF5981026ACEC33748BA9D7CD2DDAE9?doi=10.1.1.22.3273&rep=rep1&type=pdf Jonsson IQC Lecture Notes])
         --- Methods/Algorithms: small gain theorem, structured singular value, KYP Lemma, IQCs
-        --- Scribe: Kendall Queen
+        --- Scribe: Kendall Queen, [scribe-notes/lecture08.pdf lecture notes]
 
 - Lecture 9: Sep 24
     -- Control of Uncertain Systems 3: student led presentation on fundamental limits of robust control
@@ -142,13 +142,13 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- Model-based control of learned systems 1: interpretable robust control with System Level Synthesis and end-to-end bounds for learning to control an unknown linear dynamical system
         --- Reading: [https://arxiv.org/pdf/1904.01634.pdf Sections 2, 3, 4.0 and 4.5 of AndersonEtAl19], [https://arxiv.org/abs/1710.01688 Sections 3 and 4 of DeanEtAl17]
         --- Methods/Algorithms: system level synthesis, quantitative performance bounds, end-to-end bounds
-        --- Scribe: Haimin Hu
+        --- Scribe: Haimin Hu, [scribe-notes/lecture11.pdf lecture notes]
 
 - Lecture 12: 0ct 03
     -- Model-based control of learned systems 2: PAC, regret, and beyond, and what do we know about learning to control the linear quadratic regulator
         --- Reading: [https://arxiv.org/abs/1906.11392  Section 3 of MatniEtAl19], [https://arxiv.org/abs/1703.07710 Sections 1 and 2 of DannLattimoreBrunskill17]
         --- Methods/Algorithms: episodic and single-trajecotry PAC and Regret bounds
-        --- Scribe: Klayton Wittler
+        --- Scribe: Klayton Wittler, [scribe-notes/lecture12.pdf lecture notes]
 
 - Lecture 13: Oct 08
     -- Model-based control of learned systems 3: student led presentation on Optimism in the Face of Uncertainty (OFU) for LQR
@@ -170,13 +170,13 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- Learning theory 1: Empirical Risk Minimization and Uniform Convergence
         --- Reading: [http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf Chapters 2-4 ShalevSchwartzAndBenDavid], 
         --- Methods/Algorithms: ERM, uniform convergence for bounded loss functions and finite hypothesis classes, and bounded and Lipschitz loss functions and compact hypothesis classes.
-        --- Scribe:  Shuo Li
+        --- Scribe:  Shuo Li, [scribe-notes/lecture15.pdf lecture notes]
 
 - Lecture 16: Oct 22
    -- Learning theory 2:  Algorithmic Stability and Stochastic Gradient Descent
         --- Reading: [http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf BousquetElisseeff02], [https://arxiv.org/abs/1509.01240 HardtRechtSinger16]
         --- Methods/Algorithms: Generalization through Algorithmic Stability, Stability and generalization of SGD
-        --- Scribe: Jialin Mao
+        --- Scribe: Jialin Mao, [scribe-notes/lecture16.pdf lecture notes]
     
 - Lecture 17: Oct 24
     -- Learning theory 3: student led presentation on Rademacher and Gaussian Complexities for Risk Bounds
@@ -199,7 +199,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- Model free methods 1
         --- Reading: [http://incompleteideas.net/book/bookdraft2017nov5.pdf SuttonBarto Chapter 6.1-6.5], [https://ieeexplore.ieee.org/abstract/document/735224 BradtkeYdstieBarto94], Optional: [https://arxiv.org/abs/1905.12842 KrauthTuRecht2019]
         --- Methods/Algorithms: TD-learning, Q-learning, policy iteration
-        --- Scribe: Raphael Van Hoffelen
+        --- Scribe: Raphael Van Hoffelen, [scribe-notes/lecture19.pdf lecture notes]
         
 - Lecture 20: Nov 05
 -- Model free methods 2: student led presentation on if good representations are sufficient for efficient reinforcement living.
@@ -210,7 +210,7 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
 -- Model free methods 3
         --- Reading: [https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-053018-023825 Sections 3.3, 4.2, 5 of Recht19], [https://arxiv.org/pdf/1801.05039.pdf FazelGeKakadeMesbahi2019], Optional: a great talk by Maryam Fazel on [https://www.youtube.com/watch?v=5hMhGM0NOHI gradient based methods for linear control] from L4DC 2019.
         --- Methods/Algorithms: REINFORCE, Policy Gradient, Random Search
-        --- Scribe: Walker Gosrich
+        --- Scribe: Walker Gosrich, [scribe-notes/lecture21.pdf lecture notes]
         
 - Lecture 22: Nov 12
 -- Model free methods 4: student led presentation on the gap between model-free and model-based methods for LQR
@@ -228,13 +228,13 @@ Methods for the Linear Quadratic Regulator] Fazel, Ge, Kakade, and Mesbahi, 2019
     -- Safe learning and control 1
         --- Reading: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/readings/MIT6_241JS11_chap13.pdf Basic Lyapunov Theory I], [https://stanford.edu/class/ee363/lectures/lyap.pdf Basic Lyapunov Theory II], [https://stanford.edu/class/ee363/lectures/io-lyap.pdf Control Lyapunov Functions]
         --- Methods/Algorithms: Lyapunov functions, Control Lyapunov functions, Global Asymptotic Stability, Global Exponential Stability
-        --- Scribe: Siddharth Singh
+        --- Scribe: Siddharth Singh, 
         
 - Lecture 24: Nov 19
 -- Safe learning and control 2
         --- Reading: [https://stanford.edu/class/ee363/lectures/estim.pdf Estimation], [http://www.gaussianprocess.org/gpml/chapters/RW2.pdf Regression using Gaussian Processes]
         --- Methods/Algorithms: Gaussian Processes
-        --- Scribe: Alena Rodionova
+        --- Scribe: Alena Rodionova, [scribe-notes/lecture24.pdf lecture notes]
         
 - Lecture 25: Nov 21
 -- Safe learning and control 3: student led presentation on control barrier functions
