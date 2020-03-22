@@ -53,6 +53,31 @@
 <h3>Intended audience</h3>
 <p>This course will benefit anyone who uses or will use scientific computation or optimization in engineering, statistics, signal processing, or related work (e.g., machine learning, finance).  More specifically, convex optimization problems are likely to pop up in the work of people in the following departments and fields: Electrical Engineering (signal/image processing, communications, control), Aero/Astro Engineering (guidance, navigation, control, design), Mechanical &amp; Civil Engineering (robotics, control, structural analysis), Computer Science (machine learning, robotics, computer graphics, algorithms &amp; complexity, computer networking), &amp; Operations Research (Wharton).</p>
 <h3>Schedule</h3>
+<p><b>Please use the following updated schedule and grading, which starts with Week 1 after Spring Break, for the rest of the semester.  The previous course schedule can be found below for your reference.</b></p>
+<table id="UPDATED-SCHEDULE">
+<tr class="r1"><td class="c1">Date          </td><td class="c2"> Topic          </td><td class="c3"> Reading </td><td class="c4"> Homework </td></tr>
+<tr class="r2"><td class="c1">Week 1 <br /> 3/24, 3/26 </td><td class="c2"> <a href="lecture-slides/duality.pdf">Duality</a></td><td class="c3"> Chapter 5 </td><td class="c4">  <a href="hw/ese605hw6.pdf">Homework 6</a> <b>(due 4/06)</b> </td></tr>
+<tr class="r3"><td class="c1">Week 2<br /> 3/31, 04/02 </td><td class="c2"> <a href="lecture-slides/approx.pdf">Approximation and fitting</a><br /> <a href="lecture-slides/stat.pdf">Statistical estimation</a> </td><td class="c3"> Chapter 6, Chapter 7 </td><td class="c4"> No new homework </td></tr>
+<tr class="r4"><td class="c1">Week 3<br /> 4/07, 4/09 </td><td class="c2"> <a href="lecture-slides/stat.pdf">Statistical Estimation</a> <br /> <a href="lecture-slides/geom.pdf">Geometric problems</a></td><td class="c3"> Chapters 7, 8 </td><td class="c4"> Homework 7 <b>(due 4/21)</b> </td></tr>
+<tr class="r5"><td class="c1">Week 4<br /> 4/14, 4/16 </td><td class="c2"> <a href="lecture-slides/unconstrained.pdf">Unconstrained minimization</a> </td><td class="c3"> Appendix C, Chapter 9</td><td class="c4"> No new homeowrk </td></tr>
+<tr class="r6"><td class="c1">Week 5<br /> 4/21, 4/23 </td><td class="c2"> <a href="lecture-slides/equality.pdf">Equality constrained minimization</a> </td><td class="c3"> Chapter 10</td><td class="c4"> Homework 8 <b>(due 4/29)</b> (will be shorter) </td></tr>
+<tr class="r7"><td class="c1">Week 6<br /> 4/28 </td><td class="c2"> <a href="lecture-slides/barrier.pdf">Interior-point methods</a></td><td class="c3"> Chapter 11</td><td class="c4"> no new homework </td></tr>
+<tr class="r8"><td class="c1">4/30-5/03 </td><td class="c2"> Reading days </td><td class="c3"> &ndash; </td><td class="c4"> &ndash; </td></tr>
+<tr class="r9"><td class="c1">05/05 </td><td class="c2"> Likely date for take home final</td><td class="c3"> N/A </td><td class="c4"> <b>Final exam</b>
+</td></tr></table>
+<h3>Grading</h3>
+<ul>
+<li><p>Homework (20%): there will be weekly homework assignments, handed out on Tuesday, and due the following Friday by 5pm.  The homework assignments <b>must be LateXed and submitted on Canvas via Gradescope</b>.  Please use the <a href="https://web.stanford.edu/class/ee364b/latex_templates/">LaTeX templates</a> provided by Stephen Boyd's EE364b course, and follow the recommended style guide.  You will be given <b>5 free late days</b> which you may use as you please throughout the semester, after which no late assignments will be accepted.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in.  Homework will be graded on a scale of 0-4.</p>
+</li>
+<li><p>Midterm exam (30%): there will be an in-class, 75 minute, closed book, closed notes midterm scheduled for <b>3/03</b>.</p>
+</li>
+<li><p><b>Final take-home exam (50%): there will be a 24 hour final take-home exam scheduled during the final exam period.  We have tentatively scheduled this for 5/05.</b>  Please refer to the <a href="http://web.stanford.edu/class/ee364a/final.html">Stanford EE364a</a> offering of this course for an idea of what the final exam will look like, as well as the logistics of how it will be administered.</p>
+</li>
+</ul>
+<p>Note that these weights are approximate, and we reserve the right to change them later.</p>
+<p><b>Code of Academic Integrity:</b> All students are expected to adhere to the University’s <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity/">Code of Academic Integrity</a>.  </p>
+<p><br /></p>
+<h3>Previous schedule</h3>
 <p>The following schedule is tentative and subject to change.  </p>
 <table id="SCHEDULE">
 <tr class="r1"><td class="c1">Date          </td><td class="c2"> Topic          </td><td class="c3"> Reading </td><td class="c4"> Homework </td></tr>
@@ -88,7 +113,7 @@
 </ul>
 <h3>Software</h3>
 <p>You will use one of <a href="http://cvxr.com/cvx/">CVX</a> (Matlab), <a href="https://www.cvxpy.org/">CVXPY</a> (Python), or <a href="http://convexjl.readthedocs.org/">Convex.jl</a> (Julia), to write simple scripts. We refer to CVX, CVXPY, and Convex.jl collectively as CVX*.</p>
-<h3>Grading</h3>
+<h3>Previous Grading</h3>
 <ul>
 <li><p>Homework (20%): there will be weekly homework assignments, handed out on Tuesday, and due the following Friday by 5pm.  The homework assignments <b>must be LateXed and submitted on Canvas via Gradescope</b>.  Please use the <a href="https://web.stanford.edu/class/ee364b/latex_templates/">LaTeX templates</a> provided by Stephen Boyd's EE364b course, and follow the recommended style guide.  You will be given <b>5 free late days</b> which you may use as you please throughout the semester, after which no late assignments will be accepted.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in.  Homework will be graded on a scale of 0-4.</p>
 </li>
@@ -113,7 +138,7 @@ Note that these weights are approximate, and we reserve the right to change them
 
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-02-18 12:14:42 EST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2020-03-22 12:43:40 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
