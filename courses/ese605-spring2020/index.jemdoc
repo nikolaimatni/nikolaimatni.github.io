@@ -43,7 +43,7 @@ This course will benefit anyone who uses or will use scientific computation or o
 Date          | Topic          | Reading | Homework ||
 Week 1 \n 3\/24, 3\/26 | [lecture-slides/duality.pdf Duality]| Chapter 5 |  [hw/ese605hw6.pdf Homework 6] *(due 4\/06)* ||
 Week 2\n 3\/31, 04\/02 | [lecture-slides/approx.pdf Approximation and fitting]\n [lecture-slides/stat.pdf Statistical estimation] | Chapter 6, Chapter 7 | No new homework ||
-Week 3\n 4\/07, 4\/09 | [lecture-slides/stat.pdf Statistical Estimation] \n [lecture-slides/geom.pdf Geometric problems]| Chapters 7, 8 | Homework 7 *(due 4\/21)* ||
+Week 3\n 4\/07, 4\/09 | [lecture-slides/stat.pdf Statistical Estimation] \n [lecture-slides/geom.pdf Geometric problems]| Chapters 7, 8 | Homework 7 *(due 4\/20)* ||
 Week 4\n 4\/14, 4\/16 | [lecture-slides/unconstrained.pdf Unconstrained minimization] | Appendix C, Chapter 9| No new homeowrk ||
 Week 5\n 4\/21, 4\/23 | [lecture-slides/equality.pdf Equality constrained minimization] | Chapter 10| Homework 8 *(due 4\/29)* (will be shorter) ||
 Week 6\n 4\/28 | [lecture-slides/barrier.pdf Interior-point methods]| Chapter 11| no new homework ||
