@@ -39,7 +39,7 @@ This course will benefit anyone who uses or will use scientific computation or o
 *Please use the following updated schedule and grading, which starts with Week 1 after Spring Break, for the rest of the semester.  The previous course schedule can be found below for your reference.*
 
 ~~~
-{}{table}{UPDATED-SCHEDULE}
+{}{table}{SCHEDULE}
 Date          | Topic          | Reading | Homework ||
 Week 1 \n 3\/24, 3\/26 | [lecture-slides/duality.pdf Duality]| Chapter 5 |  [hw/ese605hw6.pdf Homework 6] *(due 4\/06)* ||
 Week 2\n 3\/31, 04\/02 | [lecture-slides/approx.pdf Approximation and fitting]\n [lecture-slides/stat.pdf Statistical estimation] | Chapter 6, Chapter 7 | No new homework ||
