@@ -87,10 +87,14 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Dean, N. Matni, B. Recht, and V. Ye, <a href="https://arxiv.org/abs/1907.03680"> Robust Guarantees for Perception-Based Control</a>, Learning for Decision and Control 2020,  Accepted. <br /></p>
                     </li> 
+                    
+            <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>J. Anderson, N. Matni, and Y. Chen, <a href="https://arxiv.org/abs/1903.11267">Sparsity Preserving Discretization With Error Bounds</a>, 21st World Congress of the International Federation of Automatic Control, 2020.  To appear. <br /></p>
+                    </li>         
             
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Park, O. Bastani, N. Matni, I. Lee, <a href="http://arxiv.org/abs/2001.00106"> PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction</a>,  International Conference on Learning Representations (ICLR) 2020, Accepted. <br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Park, O. Bastani, N. Matni, I. Lee, <a href="http://arxiv.org/abs/2001.00106"> PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction</a>,  International Conference on Learning Representations (ICLR) 2020. <br /></p>
                     </li> 
 
                     
@@ -110,16 +114,12 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Fattahi, N. Matni, and S. Sojoudi, <a href="https://arxiv.org/abs/1904.09396">Learning Sparse Dynamical Systems from a Single Sample Trajectory</a>, IEEE Conference on Decision and Control, 2019.  Submitted. <br /></p>
-                    </li> 
-
-<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>J. Anderson, N. Matni, and Y. Chen, <a href="https://arxiv.org/abs/1903.11267">Sparsity Preserving Discretization With Error Bounds</a>, IEEE Conference on Decision and Control, 2019.  Submitted. <br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Fattahi, N. Matni, and S. Sojoudi, <a href="https://arxiv.org/abs/1904.09396">Learning Sparse Dynamical Systems from a Single Sample Trajectory</a>, IEEE Conference on Decision and Control, 2019. <br /></p>
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>S. Dean, S. Tu,  N. Matni, and
-B. Recht, <a href="https://arxiv.org/abs/1809.10121">Safely Learning to Control the Constrained Linear Quadratic Regulator</a>, IEEE American Control Conference, 2019.  Submitted. <br /></p>
+B. Recht, <a href="https://arxiv.org/abs/1809.10121">Safely Learning to Control the Constrained Linear Quadratic Regulator</a>, IEEE American Control Conference, 2019. <br /></p>
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
@@ -128,7 +128,7 @@ B. Recht, and S. Tu, <a href="https://arxiv.org/abs/1805.09388">Regret Bounds fo
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>R. Boczar, N. Matni, and B. Recht, <a href="https://github.com/rjboczar/OF-end-to-end-CDC/blob/master/of-end-to-end_arxiv.pdf">Finite-Data Performance Guarantees for the Output-Feedback Control of an Unknown System</a>, IEEE Conference on Decision and Control, 2018.  Accepted. <br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>R. Boczar, N. Matni, and B. Recht, <a href="https://github.com/rjboczar/OF-end-to-end-CDC/blob/master/of-end-to-end_arxiv.pdf">Finite-Data Performance Guarantees for the Output-Feedback Control of an Unknown System</a>, IEEE Conference on Decision and Control, 2018. <br /></p>
                     </li>  
                     
                                      
