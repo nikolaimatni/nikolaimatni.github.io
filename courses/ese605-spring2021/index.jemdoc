@@ -73,7 +73,7 @@ Additional optional resources that may prove useful include:
 === Software
 You will use one of [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), or [http://convexjl.readthedocs.org/ Convex.jl] (Julia), to write simple scripts. We refer to CVX, CVXPY, and Convex.jl collectively as CVX*.
 
-\=== Grading
+=== Grading
 - Homework (50%): there will be bi-weekly homework assignments, handed out on Tuesday, and due two weeks later on Friday by 5pm (except for the final assignment which will be due the last day of class).  The homework assignments *must be LateXed and submitted on Canvas via Gradescope*.  Please use this [hw_template.zip LaTeX template] -- we ask that you write out detailed and rigorous solutions.  You will be given *6 free late days* which you may use as you please throughout the semester, after which no late assignments will be accepted.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in -- please indicate who you collaborated with on your assignments.  Each homework problem will be graded on a scale of 0-4.
 - *Final take-home exam (50%): there will be a 24 hour final take-home exam scheduled during the final exam period.*  Please refer to the [http://web.stanford.edu/class/ee364a/final.html Stanford EE364a] offering of this course for an idea of what the final exam will look like, as well as the logistics of how it will be administered.
 
