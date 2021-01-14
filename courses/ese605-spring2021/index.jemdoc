@@ -16,10 +16,10 @@
 
 
 == Office hours
-- *Nikolai's OHs:* Tu\/Th 4:30-5:30pm, check Piazza for Zoom Link/Passcode
-- *Lisa's OHs:* TBD
-- *Alex's OHs:* TBD
-- *Alp's OHs:* TBD
+- *Nikolai's OHs:* Tu\/Th 4:30-5:30pm ET, check Piazza for Zoom Link/Passcode
+- *Lisa's OHs:* Fr 9-11am ET, check Piazza for Zoom Link/Passcode
+- *Alex's OHs:* We 7-9pm ET, check Piazza for Zoom Link/Passcode
+- *Alp's OHs:* Mo 1-3pm ET, check Piazza for Zoom Link/Passcode
 
 == Course description
 In this course, you will learn to recognize and solve convex optimization problems that arise in applications across engineering, statistics, operations research, and finance.  Examples will be chosen to illustrate the breadth and power of convex optimization, ranging from systems and control theory, to estimation, data fitting, information theory, and machine learning.  A tentative list, subject to change, of what we will cover includes: convex sets, functions, and optimization problems; the basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programs, minimax, extremal volume, and other problems; optimality conditions, duality theory, theorems of alternatives, and applications; interior-point algorithms for solving convex optimization problems, and their complexity analysis; applications to signal processing, statistics and machine learning, control, digital and analog circuit design, and finance. 
