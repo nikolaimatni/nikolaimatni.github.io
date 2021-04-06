@@ -63,7 +63,9 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 ~~~
 {}{raw}
 <ul>
-
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> L. Lindemann, N. Matni, and G. J. Pappas, <a href="https://arxiv.org/abs/2104.01503"> STL Robustness Risk over Discrete-Time Stochastic Processes</a>, 2021, Submitted.<br /></p>
+                    </li> 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> C. Amo Alonso, J. S. Li, N. Matni, and J. Anderson, <a href="https://arxiv.org/abs/2103.14171"> Robust Distributed and Localized Model Predictive Control</a>, 2021, Submitted.<br /></p>
                     </li> 
