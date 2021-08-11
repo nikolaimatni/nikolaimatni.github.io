@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{publications.html}
+# jemdoc: menu{MENU}{cdc2019tutorial.html}
 = CDC 2019 Tutorial - From Self-Tuning Regulators to Reinforcement Learning and Back Again \n
 [https://nikolaimatni.github.io Nikolai Matni], [https://people.kth.se/~alepro/ Alexandre Proutiere], [http://www.control.lth.se/personnel/anders-rantzer.html Anders Rantzer], [https://stephentu.github.io/ Stephen Tu]
 
