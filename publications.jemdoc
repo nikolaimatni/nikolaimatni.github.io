@@ -99,11 +99,15 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. Bianchini, M. Halm, N. Matni, and M. Posa, <a href="https://arxiv.org/abs/2112.06881"> Generalization bounds for implicit learning of nearly discontinuous functions</a>, Submitted, 2022. <br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Tu, A. Robey, T. Zhang, and N. Matni, <a href="http://arxiv.org/abs/2102.09161"> On the Sample Complexity of Stability Constrained Imitation Learning</a>, Learning for Dynamics and Control (L4DC), 2022.<br /></p>
+                    </li> 
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. Bianchini, M. Halm, N. Matni, and M. Posa, <a href="https://arxiv.org/abs/2112.06881"> Generalization bounds for implicit learning of nearly discontinuous functions</a>, Learning for Dynamics and Control (L4DC), 2022. <br /></p>
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> T. T.C.K. Zhang, S. Tu, N. M. Boffi, J.-J. E. Slotine, and N. Matni, <a href="https://arxiv.org/abs/2112.10690"> Adversarially Robust Stability Certificates can be Sample-Efficient</a>, Submitted, 2022. <br /></p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> T. T.C.K. Zhang, S. Tu, N. M. Boffi, J.-J. E. Slotine, and N. Matni, <a href="https://arxiv.org/abs/2112.10690"> Adversarially Robust Stability Certificates can be Sample-Efficient</a>, Learning for Dynamics and Control (L4DC), 2022. <br /></p>
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
@@ -123,10 +127,6 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
                     </li> 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> C. Amo Alonso, J. S. Li, N. Matni, and J. Anderson, <a href="https://arxiv.org/abs/2103.14171"> Robust Distributed and Localized Model Predictive Control</a>, 2021, Submitted.<br /></p>
-                    </li> 
-
-<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Tu, A. Robey, T. Zhang, and N. Matni, <a href="http://arxiv.org/abs/2102.09161"> On the Sample Complexity of Stability Constrained Imitation Learning</a>, 2021, Submitted.<br /></p>
                     </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
