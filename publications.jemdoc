@@ -10,9 +10,6 @@ We release all code needed to reproduce examples in papers originating from our 
 ~~~
 {}{raw}
  <ul>
- <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                       <p style="text-indent: -15px; " class="paragraph_style_1">S. Chen, V. M. Preciado, M. Morari, and N. Matni, <a href="https://arxiv.org/abs/2203.11375">Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis</a>, Submitted, 2022. <a href="https://github.com/ShaoruChen/Lumped-Uncertainty-SLS-MPC"> [code]</a><br /></p>
-                    </li> 
 
  <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                        <p style="text-indent: -15px; " class="paragraph_style_1">L. Lindemann, A. Robey, L. Jiang, S. Tu, and N Matni, <a href="https://arxiv.org/abs/2111.09971">Learning Robust Output Control Barrier Functions from Safe Expert Demonstrations</a>, Submitted, 2021. <a href="https://github.com/unstable-zeros/learning-rocbfs"> [code]</a><br /></p>
@@ -85,6 +82,10 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 ~~~
 {}{raw}
 <ul>
+
+ <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                       <p style="text-indent: -15px; " class="paragraph_style_1">S. Chen, V. M. Preciado, M. Morari, and N. Matni, <a href="https://arxiv.org/abs/2203.11375">Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis</a>, Submitted, 2022. <a href="https://github.com/ShaoruChen/Lumped-Uncertainty-SLS-MPC"> [code]</a><br /></p>
+                    </li> 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni<a href="https://arxiv.org/abs/2203.10763"> Performance-Robustness Tradeoffs in Adversarially Robust Linear-Quadratic Control</a>, Submitted, 2022.
