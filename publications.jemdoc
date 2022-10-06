@@ -12,7 +12,11 @@ We release all code needed to reproduce examples in papers originating from our 
  <ul>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                       <p style="text-indent: -15px; " class="paragraph_style_1">L. Lindemann, L. Jiang, N. Matni, and G. J. Pappas <a href="https://arxiv.org/abs/2205.14523">Risk of Stochastic Systems for Temporal Logic Specifications</a>, Submitted, 2021.<br /></p>
+                       <p style="text-indent: -15px; " class="paragraph_style_1">A. Tsiamis, I. Ziemann, N. Matni, and G. J. Pappas <a href="https://arxiv.org/abs/2209.05423">Statistical Learning Theory for Control: A Finite Sample Perspective</a>, Submitted, 2022.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                       <p style="text-indent: -15px; " class="paragraph_style_1">L. Lindemann, L. Jiang, N. Matni, and G. J. Pappas <a href="https://arxiv.org/abs/2205.14523">Risk of Stochastic Systems for Temporal Logic Specifications</a>, Submitted, 2022.<br /></p>
                     </li> 
 
  <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
@@ -24,7 +28,7 @@ We release all code needed to reproduce examples in papers originating from our 
                     </li>  
                     
   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                       <p style="text-indent: -15px; " class="paragraph_style_1">C. Amo Alonso, J. S. Li, J. Anderson, and N. Matni, <a href="https://arxiv.org/abs/2110.07010">Distributed and Localized Model Predictive Control. Part I: Synthesis and Implementation</a>, Submitted, 2022. <a href="https://github.com/unstable-zeros/dl-mpc-sls"> [code]</a><br /></p>
+                       <p style="text-indent: -15px; " class="paragraph_style_1">C. Amo Alonso, J. S. Li, J. Anderson, and N. Matni, <a href="https://arxiv.org/abs/2110.07010">Distributed and Localized Model Predictive Control. Part I: Synthesis and Implementation</a>, IEEE Transactions on the Control of Network Systems (TCONES), Conditionally Accepted, 2022. <a href="https://github.com/unstable-zeros/dl-mpc-sls"> [code]</a><br /></p>
                     </li> 
   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
       <p style="text-indent: -15px; " class="paragraph_style_1">C. Amo Alonso, J. S. Li, N. Matni, and J. Anderson, <a href="https://arxiv.org/abs/2203.00780">Distributed and Localized Model Predictive Control. Part II: Theoretical Guarantees</a>, Submitted, 2022. <a href="https://github.com/unstable-zeros/dl-mpc-sls"> [code]</a><br /></p>
@@ -86,6 +90,26 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 ~~~
 {}{raw}
 <ul>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> H. Wu, T. Tagomori, A. Robey, F. Yang, N. Matni, G. Pappas, H. Hassani, C. Pasareanu, and C. Barrett <a href="https://arxiv.org/abs/2206.03669"> Toward Certified Robustness Against Real-World Distribution Shifts</a>, Submitted, 2022.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> I. Ziemann, A. Tsiamis, H. Sandberg, and N. Matni <a href="https://arxiv.org/abs/2206.06863"> How are policy gradient methods affected by the limits of control?</a>, IEEE Conference on Decision and Control, 2022.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni <a href="https://arxiv.org/abs/2203.10763"> Performance-Robustness Tradeoffs in Adversarially Robust Linear-Quadratic Control</a>, IEEE Conference on Decision and Control, 2022.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> F. Yang, F. Gama, S. Sojoudi, and N. Matni, Distributed Optimal Control of Graph Symmetric Systems Via Graph Filters, IEEE Conference on Decision and Control, 2022.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> S. Chen, N.-Y. Li, V. M. Preciado, and N. Matni <a href="https://arxiv.org/abs/2209.11841"> Robust Model Predictive Control of Time-Delay Systems through System Level Synthesis</a>, IEEE Conference on Decision and Control, 2022.<br /></p>
+                    </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> D. Pfrommer, T. T.C.K. Zhang, S. Tu, N. Matni, <a href="https://arxiv.org/abs/2205.14812"> TaSIL: Taylor Series Imitation Learning</a>, Submitted, 2022. <a href="https://github.com/unstable-zeros/TaSIL">[code]</a> <br /></p>
