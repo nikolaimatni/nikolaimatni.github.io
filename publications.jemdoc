@@ -100,6 +100,10 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni, <a href="https://arxiv.org/abs/2111.08864"> Adversarial Tradeoffs in Robust State Estimation</a>, IEEE American Control Conference, 2023. <br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> T. TCK Zhang, K. Kang, B. D. Lee, C. Tomlin, S. Levine, S. Tu, and N. Matni, <a href="https://arxiv.org/abs/2212.00186"> Multi-Task Imitation Learning for Linear Dynamical Systems</a>, Conference on Learning for Dynamics and Control (L4DC), 2023. </p>
                     </li>
 
@@ -143,10 +147,6 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
                        <p style="text-indent: -15px; " class="paragraph_style_1">A. Tsiamis, I. Ziemann, M. Morari, N. Matni, and G. J. Pappas, <a href="https://arxiv.org/abs/2205.14035">Learning to Control Linear Systems can be Hard</a>, Conference on Learning Theory (CoLT), 2022.<br /></p>
                     </li> 
 
- <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                       <p style="text-indent: -15px; " class="paragraph_style_1">S. Chen, V. M. Preciado, M. Morari, and N. Matni, <a href="https://arxiv.org/abs/2203.11375">Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis</a>, Submitted, 2022. <a href="https://github.com/ShaoruChen/Lumped-Uncertainty-SLS-MPC"> [code]</a><br /></p>
-                    </li> 
-
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni<a href="https://arxiv.org/abs/2203.10763"> Performance-Robustness Tradeoffs in Adversarially Robust Linear-Quadratic Control</a>, Submitted, 2022.
                     </li>
@@ -171,10 +171,6 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> D. Pfrommer, and N. Matni, <a href="https://arxiv.org/abs/2201.01353"> Linear Variational State Space Filtering</a>, Submitted, 2022. <a href="https://github.com/pfrommerd/variational_state_space_models">[github]</a> <br /></p>
-                    </li>
-
-<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni, <a href="https://arxiv.org/abs/2111.08864"> Adversarial Tradeoffs in Linear Inverse Problems and Robust State Estimation</a>, Submitted, 2021. <br /></p>
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
