@@ -96,13 +96,16 @@ B. Recht, and S. Tu, <a href="https://link.springer.com/article/10.1007/s10208-0
 {}{raw}
 <ul>
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, I. Ziemann, A. Tsiamis, H. Sandberg, and N. Matni <a href="https://arxiv.org/abs/2303.15637"> The Fundamental Limitations of Learning Linear-Quadratic Regulators</a>, Submitted, 2023. </p>
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> I. Ziemann, S. Tu, G. Pappas, and N. Matni, <a href="https://arxiv.org/abs/2305.11165"> The noise level in linear regression with dependent data</a>, Submitted, 2023. </p>
                     </li>
-                    
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> B. D. Lee, I. Ziemann, A. Tsiamis, H. Sandberg, and N. Matni, <a href="https://arxiv.org/abs/2303.15637"> The Fundamental Limitations of Learning Linear-Quadratic Regulators</a>, Submitted, 2023. </p>
+                    </li>
+
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                         <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> D. Pfrommer, M. Simchowitz, T. Westenbroek, N. Matni, and S. Tu, The Power of Learned Locally Linear Models for Nonlinear Policy Optimization, International Conference on Machine Learning (ICML), 2023. </p>
                     </li>
-
 
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
