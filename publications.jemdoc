@@ -12,11 +12,15 @@ We release all code needed to reproduce examples in papers originating from our 
  <ul>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                       <p style="text-indent: -15px; " class="paragraph_style_1">B. D. Lee, T. T.C.K. Zhang, H. Hassani, and N. Matni, <a href="https://arxiv.org/abs/2305.16415">Performance-Robustness Tradeoffs in Adversarially Robust Control and Estimation</a>, Submitted, 2023.<br /></p>
+                    </li>
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
                        <p style="text-indent: -15px; " class="paragraph_style_1"><a href="https://eprints.whiterose.ac.uk/197454/">Control for Societal-Scale Challenges Roadmap 2030</a>, IEEE CSS Publication, 2023.<br /></p>
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
-                       <p style="text-indent: -15px; " class="paragraph_style_1">A. Tsiamis, I. Ziemann, N. Matni, and G. J. Pappas <a href="https://arxiv.org/abs/2209.05423">Statistical Learning Theory for Control: A Finite Sample Perspective</a>, IEEE Control Systems Magazine, 2023.<br /></p>
+                       <p style="text-indent: -15px; " class="paragraph_style_1">A. Tsiamis, I. Ziemann, N. Matni, and G. J. Pappas, <a href="https://arxiv.org/abs/2209.05423">Statistical Learning Theory for Control: A Finite Sample Perspective</a>, IEEE Control Systems Magazine, 2023.<br /></p>
                     </li>
 
 <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
