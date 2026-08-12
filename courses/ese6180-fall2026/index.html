@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>ESE 6180-001, Fall 2026 &ndash; Learning for Dynamics and Control</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">ESE 6180, Fall 2026</div>
+<div class="menu-item"><a href="index.html">home</a></div>
+<div class="menu-item"><a href="project.html">project</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>ESE 6180-001, Fall 2026 &ndash; Learning for Dynamics and Control</h1>
+</div>
+<p><b>Instructor:</b> Nikolai Matni (<a href="mailto:nmatni@engineering.upenn.edu">nmatni@engineering.upenn.edu</a>), Associate Professor, Dept. of ESE</p>
+<p><b>Teaching assistant:</b> Eliot Shekhtman (<a href="mailto:shekhe@engineering.upenn.edu">shekhe@engineering.upenn.edu</a>)</p>
+<p><b>Lectures:</b> Tu/Th 1:45-3:14pm, DRLB 3C2</p>
+<p><b>Office hours:</b> NM: Tu 3:30-4:30pm, AGH 520A (see Canvas for door code)</p>
+<p><b>Syllabus</b>: <a href="./Syllabus.pdf">ESE6180-001</a></p>
+<p><b>Canvas</b>: We will be using <a href="https://canvas.upenn.edu/courses/1947493"><b>Canvas</b>.</a></p>
+<h2>Course description</h2>
+<p>This course will provide students an introduction to the emerging area at the intersection of machine learning, dynamics, and control. We will investigate machine learning and data-driven algorithms that interact with the physical world, with an emphasis on a holistic understanding of the interplay between concepts from control theory (e.g., feedback, stability, robustness) and machine learning (e.g., generalization, sample-complexity). This semester will explore these concepts mainly using <i>imitation learning</i> as a central case study, although we will touch on other concepts as well.</p>
+<h2>About the Course</h2>
+<h3>Prerequisites</h3>
+<p><b>This is an advanced theory-intensive course.</b>  A solid foundation in linear systems (at the level of ESE 5000), probability theory (at the level of ESE 5300), and optimization (at the level of ESE 6050), as well as mathematical maturity (comfort with reading and writing proofs) is required.  Familiarity with Python is helpful, but not required.  Undergraduates need permission. </p>
+<h3>Intended audience</h3>
+<p>This course is ideal for advanced graduate students who are interested in applying novel research concepts to their own work.  By the end of this course, students will be ready to start doing research in the Learning for Dynamics and Control (L4DC) space.</p>
+<h2>Tentative list of topics</h2>
+<ul>
+<li><p><b>Part 1: Basics</b></p>
+<ul>
+<li><p><b>Introduction and Course Overview</b>: What this course is (and isn't); the interplay of learned components, feedback, dynamics, and data</p>
+</li>
+<li><p><b>Foundations of Control</b>: Open- vs. closed-loop systems, feedback interconnections, stability (local/global, open-/closed-loop), Lyapunov theory, robust stability</p>
+</li>
+<li><p><b>Foundations of Statistical Learning</b>: Empirical risk minimization, train/validation/test distributions, generalization bounds, and learning a dynamical system from data</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><b>Part 2: Imitation Learning as a Case Study</b></p>
+<ul>
+<li><p><b>Introduction to Imitation Learning</b>: Problem setup and standard algorithms; how imitation learning differs from classical control and classical statistical learning</p>
+</li>
+<li><p><b>Incremental Input-to-State Stability (δ-ISS)</b>: Motivation, definitions, properties, certificates, and examples</p>
+</li>
+<li><p><b>Stability-Constrained Imitation Learning</b>: Learning within a stable policy class; practical approaches (model-based linear IL, open-loop stability with action chunking)</p>
+</li>
+<li><p><b>Taylor Series Imitation Learning (TaSIL)</b>: The TaSIL lemma and its application to linear and nonlinear systems</p>
+</li>
+<li><p><b>Noise Injection</b>: Persistence of excitation and related considerations</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><b>Part 3: Fundamental Limits</b></p>
+<ul>
+<li><p><b>Minimax Lower Bounds and Le Cam's Method</b>: Two-point testing arguments, KL divergence tools, and worked examples (Gaussian mean estimation, linear regression)</p>
+</li>
+<li><p><b>Hardness of System Identification</b>: Classical methods, consistency, and minimax rates</p>
+</li>
+<li><p><b>Hardness of Learning to Stabilize</b>: The role of co-stabilizability in statistical hardness</p>
+</li>
+<li><p><b>Hardness of Imitation Learning, Revisited</b>: Connecting control-theoretic and learning-theoretic hardness</p>
+</li>
+<li><p><b>Hardness of Learning the Linear Quadratic Regulator (LQR)</b>: The coarse-ID/certainty-equivalence pipeline, minimax risk, and excess cost bounds</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><b>Part 4: Optimization Algorithms for Models Deployed in Closed Loop</b></p>
+<ul>
+<li><p><b>Multi-Task Learning for Dynamics and Control</b>: Statistical results for multi-task learning; optimization algorithms for anisotropic, task-specific covariates</p>
+</li>
+<li><p><b>Test-Time Feedback and Training Data Imbalance</b>: How closed-loop feedback shapes learning; connections to feature learning and preconditioning methods</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<h3>Grading</h3>
+<ul>
+<li><p><b>Homework (40%):</b> there will be four homework assignments, each worth 10%.  You will be given <b>5 free late days</b> which you may use as you please throughout the semester, after which no late assignments will be accepted.  No exceptions beyond these 5 free late days will be made.  You are allowed, even encouraged, to work on homework in small groups, but you must write up your own homework solutions and code to hand in &ndash; please indicate who you collaborated with on your assignments.</p>
+</li>
+<li><p><b>Final project (60%):</b> students will be expected to work on a <b>theory-focused</b> project (in groups of up to 2 students).  See <a href="./project.html">project page</a> for more details.</p>
+</li>
+</ul>
+<p>Note that these weights are approximate, and we reserve the right to change them later. </p>
+<p><b>Code of Academic Integrity:</b> All students are expected to adhere to the University’s <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity/">Code of Academic Integrity</a>.</p>
+<p><b>AI policy:</b> There are no restrictions on the use of AI in this course. However, you should indicate how AI was used. You are also responsible for ensuring that the output of AI tools is accurate: <b>every identified hallucination will result in your grade on that assignment being divided by half.</b>  For example, if you submit a project report with one hallucinated reference, the highest grade you can get on that report is 50%; with two hallucinated references, the highest grade you can get on that report is 25%; etc.</p>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-08-12 15:10:27 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
