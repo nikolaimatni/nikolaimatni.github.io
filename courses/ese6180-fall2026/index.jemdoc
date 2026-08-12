@@ -14,9 +14,10 @@
 
 *Canvas*: We will be using [https://canvas.upenn.edu/courses/1947493 *Canvas*.]
 
+*Past offerings*: [https://nikolaimatni.github.io/courses/ese680-fall2019 2019], [https://nikolaimatni.github.io/courses/ese618-fall2021 2021], [https://ingvarziemann.com/ese6180/ese6180 2024]
+
 == Course description
 This course will provide students an introduction to the emerging area at the intersection of machine learning, dynamics, and control. We will investigate machine learning and data-driven algorithms that interact with the physical world, with an emphasis on a holistic understanding of the interplay between concepts from control theory (e.g., feedback, stability, robustness) and machine learning (e.g., generalization, sample-complexity). This semester will explore these concepts mainly using /imitation learning/ as a central case study, although we will touch on other concepts as well.
-
 
 == About the Course
 === Prerequisites
