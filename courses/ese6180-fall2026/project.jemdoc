@@ -47,7 +47,26 @@ Additional Tentative due dates:
 
 Students are encouraged to idnetify projects which align well with their existing research interests, and to discuss project ideas with the instructor and/or TA prior to submitting their initial proposal.
 
-We will provide a few project ideas below in the first week or two of the semester. Studying existing "L4DC" theory papers and producing pedagogically accessible and/or simplified proofs is also a good option for the course project.  Numerical experiments used to verify conclusions or test conjectures are encouraged.
+Studying existing "L4DC" theory papers and producing pedagogically accessible and/or simplified proofs is also a good option for the course project.  Numerical experiments used to verify conclusions or test conjectures are encouraged.
+
+Some possible project ideas include:
+
+- Action chunking in imitation learning: conduct a survey on results explaining why action chunking is useful in robot learning, see [https://arxiv.org/abs/2507.09061 arXiv:2507.09061], [https://arxiv.org/abs/2608.02547 arXiv:2608.02547], and references therein. Can you reconcile these with the results we’ve seen in class?
+
+- Data augmentation in imitation learning: conduct a survey on results explaining why data augmentation is useful in robot learning; see [https://arxiv.org/abs/2507.09061 arXiv:2507.09061], [https://arxiv.org/abs/1703.09327 arXiv:1703.09327], and references therein.  Can you reconcile these with the results we’ve seen in class/
+
+- Asymptotic vs. non-asymptotic linear system identification guarantees: conduct a survey of known results in linear system identification in both the asymptotic and non-asymptotic sense, present the key techniques used in both settings, and compare/contrast the methods and results; see [https://arxiv.org/abs/2209.05423 arXiv:2209.05423], [https://arxiv.org/abs/2309.03873 arXiv:2309.03873], and references therein.  Can you argue for one approach over another?
+
+- Active learning in control: conduct a survey of active learning techniques in control, see [https://arxiv.org/abs/2002.00495 arXiv:2002.00495], [https://arxiv.org/abs/2404.09030 arXiv:2404.09030], and references therein.  Can you think of other applications of the techniques developed in these papers?
+
+- Imitation learning in discrete and continuous spaces: conduct a survey of results and techniques used to provide guarantees for imitation learning in discrete and continuous spaces, see [https://dylanfoster.net/il-tutorial/ Foster's IL tutorial] and references therein.  Can you synthesize the broad set of results into a cohesive theoretical framework?
+
+- Flow matching and diffusion models: flow matching and diffusion models are trained in a way that is very similar to the framework presented in class for our two case studies.  Can you use the techniques we’ve developed in class to provide generalization guarantees for flow matching or diffusion models?
+
+- Learning non-smooth dynamics or controllers:  many interesting tasks in robotics require contact to be made and broken, resulting in non-smooth dynamics or policies.  This is in tension with the results we’ve seen in class, which require some notion of smoothness/Lipschitz-ness.  One approach to overcome this challenge is to use implicit representations to capture these sharp functions in a smooth way.  Conduct a survey of these techniques, and provide a closed-loop generalization guarantee for one such method.  See [https://proceedings.mlr.press/v229/bianchini23a.html Bianchini et al.], [https://proceedings.mlr.press/v164/florence22a Florence et al.], [https://proceedings.mlr.press/v70/amos17a.html Amos and Kolter], and references therein.
+
+- Observation-based control: the results we’ve seen in class assume access to full system state.  Many real-world systems instead only have access to the world through high-dimensional observations (e.g., RGB images, depth images, point clouds).  Under what assumptions can you provide guarantees for these systems?  See [https://arxiv.org/abs/2206.06553 arXiv:2206.06553], [https://proceedings.mlr.press/v120/dean20a.html Dean et al.], [https://arxiv.org/abs/2010.03799 arXiv:2010.03799] and references therein.
+
 
 ~~~
 {}{raw}
