@@ -67,6 +67,8 @@ Some possible project ideas include:
 
 - Observation-based control: the results we’ve seen in class assume access to full system state.  Many real-world systems instead only have access to the world through high-dimensional observations (e.g., RGB images, depth images, point clouds).  Under what assumptions can you provide guarantees for these systems?  See [https://arxiv.org/abs/2206.06553 arXiv:2206.06553], [https://proceedings.mlr.press/v120/dean20a.html Dean et al.], [https://arxiv.org/abs/2010.03799 arXiv:2010.03799] and references therein.
 
+- Compounding error: Applying learned policies iteratively can amplify mistakes - an effect known as compounding error. Survey methods used to mitigate the effects of compounding error e.g. [https://arxiv.org/pdf/1011.0686 Ross and Bagnell], [https://publications.ri.cmu.edu/storage/publications/pub_files/2015/1/Venkatraman.pdf Venkatraman et al.], [https://arxiv.org/abs/2603.23465 arXiv:2603.23465]. Can you use what you've learned in class to argue why any of these methods is useful?
+
 
 ~~~
 {}{raw}
