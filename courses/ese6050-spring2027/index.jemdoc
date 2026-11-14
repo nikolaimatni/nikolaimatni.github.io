@@ -1,0 +1,101 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{../../}
+= ESE 6050, Spring 2027 -- Modern Convex Optimization
+
+*Instructor:* [nmatni@seas.upenn.edu Nikolai Matni], Associate Professor, ESE Department
+
+*TAs:* Coming soon.
+
+*Lectures:* Tu\/Th 3:30-5:00pm ET in LRSM Auditorium.
+
+*Syllabus*: [./Syllabus.pdf ESE6050-001]
+
+*If you are trying to register for the class:* follow the instructions [https://www.ese.upenn.edu/registration/ here]. *Do not e-mail me, I cannot help you!*
+
+*Canvas*: We will use Canvas to manage class logistics (link coming soon).
+
+*Ed Discussion*: We will use Ed Discussion for questions and answers (link coming soon).
+
+
+== Office hours
+- See Canvas for OHs
+
+
+== Course description
+In this course, you will learn to recognize and solve convex optimization problems that arise in applications across engineering, statistics, operations research, and finance.  Examples will be chosen to illustrate the breadth and power of convex optimization, ranging from systems and control theory, to estimation, data fitting, information theory, and machine learning.  A tentative list, subject to change, of what we will cover includes: convex sets, functions, and optimization problems; the basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programs, minimax, extremal volume, and other problems; optimality conditions, duality theory, theorems of alternatives, and applications; interior-point algorithms for solving convex optimization problems, and their complexity analysis; applications to signal processing, statistics and machine learning, control, digital and analog circuit design, and finance. 
+
+== Course objectives
+- to give students the tools and skills needed to identify convex optimization problems that arise in applications
+- to introduce the basic theory of convex optimization problems, concentrating on results that are useful in understanding, improving, and extending computational methods
+- to give students a deep and foundational understanding of how such problems are solved, and hands on experience in solving them
+- to give students the background needed to feel comfortable in applying these methods in their own research work and/or applications
+
+
+== About the Course
+=== Prerequisites
+This is a math intensive course.  A solid foundation in linear algebra (at the level of Math 314), as well as comfort with analysis, probability, and statistics at an advanced undergraduate level is required.  Familiarity with one of Matlab, Python, or Julia.  Undergraduates need permission. 
+
+=== Intended audience
+This course will benefit anyone who uses or will use scientific computation or optimization in engineering, statistics, signal processing, or related work (e.g., machine learning, finance).  More specifically, convex optimization problems are likely to pop up in the work of people in the following departments and fields: Electrical Engineering (signal\/image processing, communications, control), Aero\/Astro Engineering (guidance, navigation, control, design), Mechanical & Civil Engineering (robotics, control, structural analysis), Computer Science (machine learning, robotics, computer graphics, algorithms & complexity, computer networking), & Operations Research (Wharton).
+
+\n
+=== Schedule
+The following schedule is tentative and subject to change.  
+~~~
+{}{table}{SCHEDULE}
+Date          | Topic          | Reading | Quizzes & Exams ||
+Week 1\n 1\/21 | [lecture-slides/logistics.pptx Logistics], [lecture-slides/intro.pdf Introduction]   | Chapter 1\n Appendix A| Sign up for Canvas & Ed ||
+Week 2\n 1\/26, 1\/28 | [lecture-slides/sets.pdf Convex sets] | Chapter 2| ||
+Week 3\n 2\/02, 2\/04 | [lecture-slides/functions.pdf Convex functions] | Chapter 3 | Quiz 1 (Thu 2\/04) ||
+Week 4\n 2\/09, 2\/11 | [lecture-slides/problems.pdf Convex optimization problems] | Chapter 4 | ||
+Week 5\n 2\/16, 2\/18 | [lecture-slides/problems.pdf Convex optimization problems]\n [lecture-slides/duality.pdf Duality]| Chapter 4, 5 | Quiz 2 (Thu 2\/18) ||
+Week 6\n 2\/23, 2\/25 | [lecture-slides/duality.pdf Duality]| Chapter 5 | ||
+Week 7\n 3\/02, 3\/04 | [lecture-slides/approx.pdf Approximation and fitting] | Chapter 6 | Quiz 3 (Thu 3\/04) ||
+Spring Break\n 3\/09, 3\/11 | relax | have fun | ||
+Week 8\n 3\/16, 3\/18 | [lecture-slides/stat.pdf Statistical estimation] | Chapter 7 | Quiz 4 (Thu 3\/18) ||
+Week 9\n 3\/23, 3\/25 | [lecture-slides/stat.pdf Statistical Estimation] \n [lecture-slides/geom.pdf Geometric problems]| Chapters 7, 8 | ||
+Week 10\n 3\/30, 4\/01 | [lecture-slides/geom.pdf Geometric problems]\n [lecture-slides/num-lin-alg.pdf Numerical Linear Algebra Review]| Chapter 8\n Appendix C | Quiz 5 (Thu 4\/01) ||
+Week 11\n 4\/06, 4\/08 | [lecture-slides/unconstrained.pdf Unconstrained minimization] | Chapter 9| ||
+Week 12\n 4\/13, 4\/15 | [lecture-slides/equality.pdf Equality constrained minimization] | Chapter 10| Quiz 6 (Thu 4\/15) ||
+Week 13\n 4\/20, 4\/22 | [lecture-slides/barrier.pdf Interior-point methods]| Chapter 11| ||
+Week 14\n 4\/27, 4\/29 | Advanced topic: TBD | TBD | Quiz 7 (Thu 4\/29) ||
+Week 15\n 5\/04 | Advanced topic: TBD \n [lecture-slides/conclusion.pdf Conclusions] | N/A | *Final Exam: date TBD*\n Exam period 5\/07--5\/17 ||
+~~~
+
+=== Textbook
+The textbook is Convex Optimization by Boyd and Vandenberghe, available [https://web.stanford.edu/~boyd/cvxbook/ online].
+
+Additional optional resources that may prove useful include:
+- J. Renegar, A Mathematical View of Interior Point Methods for Convex Optimization, 1998
+- A. Ben-Tal and A. Nemirovski, Lectures on Modern Convex Optimization: Analysis, Algorithms, and Engineering Applications, SIAM, 2001
+- D. Bertsekas, A. Nedic, and A Ozdaglar, Convex Analysis and Optimization , 2003
+- L. El Ghaoui's [https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227BT/LectureNotes_EE227BT.pdf EE227BT Lecture Notes]
+
+=== Software
+You will use one of [http://cvxr.com/cvx/ CVX] (Matlab), [https://www.cvxpy.org/ CVXPY] (Python), or [http://convexjl.readthedocs.org/ Convex.jl] (Julia), to write simple scripts. We refer to CVX, CVXPY, and Convex.jl collectively as CVX*.
+
+=== Grading
+- *Quizzes (50%)*: there will be bi-weekly quizzes, held in person at the beginning of class on Thursdays, *7 in total* over the semester.  Quizzes are short: each is designed to take about 30 minutes, plus 5 minutes to upload your quiz to Gradescope (approximately 35 minutes total).  Each quiz covers the material taught since the previous quiz, with one exception: the lecture on the Tuesday immediately before a quiz is not on that quiz, and is instead fair game on the next one.  *Your best 5 quiz scores will count toward your grade*, for a total of 50\%.  This means you can miss up to two quizzes without it affecting your grade, *but no exceptions will be granted beyond that.*
+- *Final exam (50%)*: there will be a synchronous in person final exam (date *TBD*).  Refer to registrar for time and location.
+
+Note that these weights are approximate, and we reserve the right to change them later. 
+
+*Code of Academic Integrity*: All students are expected to adhere to the University’s [https://catalog.upenn.edu/pennbook/code-of-academic-integrity/ Code of Academic Integrity]. *We have and will report repeat offenders to [https://csa.upenn.edu/ The Center for Community Standards and Accountability]: this will result in an Incomplete on your transcript until their investigation is complete.  THIS CAN PREVENT YOU FROM GRADUATING, SO DO NOT CHEAT.*
+
+
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+
+~~~
+
+
+
